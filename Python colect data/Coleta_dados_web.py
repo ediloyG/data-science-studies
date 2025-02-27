@@ -5,15 +5,14 @@ url = 'https://wiki.python.org.br/AprendaMais'
 requisicao = requests.get(url)
 extracao = BeautifulSoup(requisicao.text, 'html.parser')
 
-'''
+
 # mostra o que esta da extração
- print(extracao.text.strip())# .strip() remove os espaços em branco no inicio e no final da string
+print(extracao.text.strip())# .strip() remove os espaços em branco no inicio e no final da string
 
 for linha_texto in extracao.find_all('h2'):
     titulo = linha_texto.strip()
     print('titulo : ',titulo)
-'''
-'''
+
 # conta paragrafos e titulos
 contar_titulos = 0
 contrar_paragrafos = 0
@@ -25,7 +24,7 @@ for linha_texto in extracao.find_all(['h2', 'p']):
         
 print('Quantidade de titulos: ', contar_titulos)
 print('Quantidade de paragrafos: ', contrar_paragrafos)
-'''
+
 # exibe tags com links
 for titulo in extracao.find_all('h2'):
     print('\n Titulo: ',titulo.text.strip())
