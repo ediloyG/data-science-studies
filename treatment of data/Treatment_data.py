@@ -5,6 +5,9 @@ df = pd.read_csv('clientes.csv')
 # verifica os primeiros registros
 print(df.head().to_string()) # to_string() para exibir todas as colunas
 
+# verifica os últimos registros
+print(df.tail().to_string())
+
 # verifica quantidade de linhas e colunas
 print('quantidade de linhas e colunas:', df.shape)
 

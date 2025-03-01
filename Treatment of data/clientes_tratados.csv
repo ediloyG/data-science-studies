@@ -1,0 +1,1011 @@
+nome,cpf,idade,data,estado,endereco
+Sr. Vitor Gabriel Silva,640.719.385-01,90,1933-12-06,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Calebe Santos,651.297.384-46,40,1984-03-06,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Castro,164.750.293-43,76,1947-04-12,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Arthur Da Rosa,085.167.249-30,53,1970-04-16,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Juan Pereira,520.876.319-21,68,1955-10-25,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Ana Laura Ribeiro,210.764.589-20,69,1954-05-09,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Clara Araújo,960.342.175-80,41,1983-03-14,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitória Oliveira,302.568.479-83,31,1993-03-10,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benjamin Oliveira,451.896.703-84,49,1974-05-16,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pietro Barros,843.095.172-50,51,1972-08-19,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Cavalcanti,520.679.841-01,89,1934-11-26,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ian Da Costa,384.172.609-78,23,2001-01-21,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Emanuel Costa,736.581.942-19,55,1969-03-09,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Larissa Da Cruz,128.953.704-60,83,1940-11-22,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Diogo Carvalho,078.153.294-97,83,1941-03-10,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Anthony Almeida,305.184.962-60,37,1987-02-03,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Martins,397.201.856-86,77,1947-03-14,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Luiz Felipe Cardoso,374.691.850-20,69,1954-07-20,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Calebe Lopes,135.796.802-77,62,1961-10-19,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Miguel Monteiro,097.521.834-41,54,1969-06-27,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Catarina Da Mata,468.751.390-57,81,1942-07-05,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Gabriel Araújo,625.904.731-25,73,1950-09-13,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Nicolas Azevedo,036.458.921-33,35,1989-01-18,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kamilly Caldeira,508.379.462-47,44,1979-07-04,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Renan Araújo,186.970.354-57,79,1945-03-06,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vicente Nascimento,054.921.378-32,63,1961-02-22,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isaac Rocha,873.402.691-69,57,1966-11-30,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Julia Das Neves,819.402.563-05,60,1963-08-28,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Rodrigues,196.540.732-34,95,1928-10-24,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabel Nogueira,968.502.347-65,63,1960-10-21,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Anthony Araújo,208.157.463-26,38,1985-09-07,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Marina Da Cunha,067.152.389-95,55,1968-09-09,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Helena Cardoso,853.471.906-39,51,1972-05-29,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Nunes,593.204.186-24,50,1973-06-17,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Raquel Da Costa,278.534.619-09,58,1965-05-07,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Ana Vitória Oliveira,120.347.586-17,60,1963-11-01,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiza Campos,974.281.306-03,52,1972-01-13,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucca Da Paz,526.980.731-95,71,1952-04-14,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nathan Da Rosa,907.231.564-25,31,1992-11-05,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lívia Silveira,804.125.796-85,61,1962-11-22,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabel Cavalcanti,492.768.130-04,54,1969-05-10,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Nunes,285.917.604-76,38,1985-08-28,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Elisa Fogaça,572.840.693-92,95,1928-12-13,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Agatha Ramos,948.061.752-85,23,2000-12-03,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kamilly Rocha,946.031.875-48,59,1964-09-19,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Antônio Das Neves,435.698.712-82,40,1983-07-31,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Gustavo Alves,198.506.473-10,45,1978-07-08,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuella Fernandes,097.184.263-96,87,1936-07-21,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Ana Beatriz Farias,431.975.068-39,62,1961-08-07,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yago Monteiro,865.279.143-00,44,1979-06-22,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yasmin Gonçalves,017.459.382-14,76,1947-09-26,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruna Nascimento,132.695.407-52,34,1989-04-13,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Luiz Nogueira,873.045.912-50,97,1926-12-20,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ian Monteiro,324.157.968-91,24,1999-12-11,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Helena Silva,905.164.728-01,35,1988-11-14,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bárbara Novaes,038.496.512-15,88,1935-05-24,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Pedro Lucas Costela,534.870.296-00,30,1993-08-24,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Jesus,673.105.482-80,22,2001-08-16,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Alícia Caldeira,051.382.694-70,89,1934-12-04,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Danilo Martins,760.389.541-39,99,1925-03-30,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Gabriel Da Rosa,530.641.782-53,49,1974-09-10,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Augusto Teixeira,412.563.970-16,69,1954-11-15,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Julia Da Rosa,630.549.782-65,42,1981-10-10,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucca Barbosa,836.109.275-77,97,1926-06-12,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Amanda Da Costa,268.935.074-29,23,2000-11-20,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Francisco Cardoso,430.297.815-50,96,1927-10-30,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Farias,268.517.934-82,92,1931-04-17,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Anthony Da Costa,935.287.104-97,36,1988-02-13,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cauã Rodrigues,107.286.439-87,98,1926-02-11,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Anthony Barbosa,631.750.489-00,86,1937-08-19,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Julia Almeida,179.386.425-09,22,2001-07-20,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Barros,314.602.985-51,73,1950-08-04,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Murilo Gomes,759.083.641-93,99,1924-05-22,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Daniel Barbosa,812.035.469-98,28,1995-10-05,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Samuel Cardoso,039.124.687-96,47,1977-03-20,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Sales,863.247.190-22,78,1945-11-24,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Mariana Cunha,492.537.016-25,81,1942-07-24,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. João Guilherme Cavalcanti,347.156.029-70,38,1985-09-30,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kamilly Rocha,365.248.907-10,63,1960-10-29,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriel Nunes,940.813.762-04,55,1968-11-21,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Correia,579.042.183-05,72,1952-01-03,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Lívia Barbosa,925.164.380-60,62,1961-05-30,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Teixeira,694.815.037-39,90,1933-05-11,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carlos Eduardo Santos,937.815.426-37,69,1955-03-29,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Araújo,349.682.017-96,70,1953-09-15,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Moreira,184.762.950-49,40,1984-03-23,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Julia Lopes,106.893.247-31,47,1977-02-13,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+André Lima,645.098.123-70,79,1944-11-06,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Gabriel Barbosa,190.657.428-67,55,1969-02-23,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+,438.765.902-56,21,2002-04-13,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Felipe Oliveira,830.679.415-00,42,1981-10-18,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Vieira,218.305.764-53,39,1984-07-02,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucca Ferreira,237.984.561-19,86,1938-03-30,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Castro,582.630.419-70,70,1954-02-04,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Vitória Teixeira,426.753.091-25,61,1962-12-16,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Fernanda Farias,907.143.856-20,22,2001-07-18,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernanda Sales,879.354.102-32,71,1953-02-05,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Eduarda Nogueira,602.751.493-07,66,1958-01-13,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Ferreira,016.542.973-99,65,1958-04-24,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Catarina Pires,079.186.425-11,47,1977-01-28,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Manuela Da Rocha,839.561.470-57,74,1949-05-21,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nina Moura,604.173.592-25,46,1977-07-23,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Henrique Vieira,526.839.107-03,42,1981-08-14,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Clara Cunha,862.953.107-02,36,1987-04-09,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pietra Santos,508.672.194-67,94,1929-06-14,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Theo Da Conceição,284.517.309-14,25,1998-10-04,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vinicius Da Costa,023.916.457-16,65,1958-06-03,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Henrique Cunha,519.304.678-93,58,1965-06-03,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Nogueira,564.829.170-11,74,1949-12-14,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Fernando Da Paz,409.816.257-11,80,1943-04-30,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Letícia Rocha,137.580.942-32,76,1947-12-01,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Nogueira,367.189.054-10,91,1933-02-22,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Gabriel Cardoso,962.405.713-34,53,1970-07-13,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ryan Ribeiro,409.157.683-48,95,1928-12-18,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Olivia Das Neves,314.927.586-55,23,2001-01-27,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Luiz Miguel Pinto,942.816.507-76,55,1968-04-17,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Elisa Teixeira,217.439.856-73,79,1944-05-07,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Miguel Das Neves,523.976.081-03,59,1964-12-15,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Luiza Azevedo,064.253.879-47,76,1947-04-29,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorenzo Silva,642.397.018-13,47,1976-05-09,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bianca Souza,673.295.108-40,97,1926-05-25,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Azevedo,643.978.150-20,70,1953-11-01,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Lima,187.604.952-94,57,1967-01-28,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Cunha,093.821.745-32,59,1964-09-17,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Nicole Da Rocha,367.082.149-03,79,1944-10-10,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Clara Santos,430.629.781-04,35,1988-04-15,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Castro,694.253.078-65,96,1927-07-11,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nicole Ferreira,701.839.246-22,28,1996-02-11,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Erick Sales,498.357.160-48,37,1986-09-13,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Anthony Barros,742.053.618-07,42,1981-10-24,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Renan Da Rocha,986.204.357-10,53,1971-03-08,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcela Santos,843.196.205-42,24,1999-12-23,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carolina Melo,970.358.142-05,39,1984-06-06,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lavínia Rezende,946.321.085-70,44,1979-08-19,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Julia Porto,502.731.649-61,75,1948-07-21,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alana Cardoso,572.934.018-41,32,1991-04-14,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucas Cardoso,805.769.423-83,28,1995-11-15,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raul Santos,315.809.267-03,19,2004-09-11,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Igor Melo,261.730.548-17,46,1978-02-03,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joaquim Da Costa,274.039.856-56,76,1947-08-10,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Felipe Farias,936.457.180-01,28,1996-01-11,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Manuela Almeida,647.251.980-30,75,1949-01-27,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ryan Rocha,248.513.096-51,64,1959-10-25,Desconhecido,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luna Da Conceição,935.416.278-91,96,1928-02-19,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Manuela Silva,591.372.846-73,18,2005-09-01,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Vitória Das Neves,761.450.932-34,96,1928-01-05,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcela Cunha,904.312.587-32,45,1978-06-17,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bryan Souza,593.410.876-00,66,1958-03-05,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kevin Cavalcanti,658.107.349-01,48,1976-01-29,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. João Gabriel Martins,794.682.051-85,74,1949-06-14,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Da Mata,746.021.835-90,67,1956-06-16,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Júlia Fernandes,650.429.831-98,48,1975-11-19,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bárbara Silveira,386.019.472-04,40,1983-12-25,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vinicius Jesus,549.723.618-91,89,1934-12-08,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Alice Pires,536.287.940-56,41,1982-07-08,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lara Ferreira,698.517.304-75,72,1951-10-23,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Felipe Freitas,863.410.759-01,98,1925-04-27,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maysa Pires,852.607.149-11,68,1955-10-08,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Letícia Da Mata,308.742.169-31,47,1976-08-04,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Cunha,623.457.109-34,92,1932-01-24,Desconhecido,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucas Gabriel Gomes,120.476.398-40,20,2004-02-23,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuelly Costela,152.490.783-97,46,1977-10-21,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Calebe Nascimento,631.974.802-87,85,1939-02-25,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Juan Pires,139.648.572-46,76,1948-03-12,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lívia Costa,582.793.041-50,81,1942-10-18,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucas Nunes,679.802.341-03,21,2003-01-07,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Lucca Oliveira,806.759.431-75,89,1934-06-24,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduardo Monteiro,037.529.468-65,61,1962-11-09,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Diogo Moraes,571.463.209-52,47,1977-01-12,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Felipe Freitas,657.014.938-57,18,2005-12-08,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ryan Peixoto,830.126.594-98,27,1996-08-25,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Otávio Pires,526.170.894-01,25,1998-07-16,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thiago Moreira,023.671.984-03,61,1963-01-11,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pietro Lopes,428.657.913-19,61,1962-04-24,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Gomes,317.820.469-50,42,1981-04-13,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Miguel Viana,183.527.069-77,23,2000-05-27,Desconhecido,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Luiz Henrique Nunes,031.879.256-77,76,1948-03-17,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Ana Sophia Viana,937.802.651-68,29,1995-02-18,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Marcelo Aragão,418.379.602-40,85,1938-04-06,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Da Mota,018.326.459-24,30,1993-09-22,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benjamin Da Rosa,195.728.306-86,99,1924-07-29,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Rezende,316.749.285-64,68,1955-10-15,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Thomas Dias,267.984.310-03,45,1979-01-13,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Ribeiro,803.946.721-78,38,1985-10-05,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucas Gabriel Novaes,856.074.129-11,41,1982-09-04,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vicente Rodrigues,328.147.905-79,85,1938-12-18,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Lucas Vieira,985.724.301-05,38,1985-10-18,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Luiz Henrique Freitas,951.720.438-88,47,1976-11-07,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Luiza Da Conceição,189.032.564-33,96,1927-04-29,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benjamin Cavalcanti,317.024.958-41,26,1997-11-30,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Murilo Mendes,653.748.201-17,77,1946-04-20,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Renan Rezende,609.342.875-38,65,1958-12-16,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maysa Porto,081.395.764-84,68,1955-09-11,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Lucas Pereira,873.421.560-35,84,1940-01-09,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isadora Nogueira,480.321.579-05,50,1974-01-09,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriel Ramos,591.874.320-05,76,1947-08-23,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yago Ferreira,531.842.796-00,87,1936-05-30,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Da Mata,521.740.968-11,21,2002-11-30,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Pinto,317.480.529-50,94,1929-07-19,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Rafael Souza,436.750.218-07,45,1979-02-03,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Hugo Lima,450.326.187-80,85,1938-07-30,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Bernardo Da Cruz,230.847.951-50,21,2003-03-03,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caio Da Cunha,926.084.357-00,93,1930-09-14,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Stephany Duarte,642.183.975-46,97,1927-03-22,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kevin Da Conceição,074.851.296-94,63,1960-04-18,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Giovanna Aragão,142.765.380-17,76,1947-07-08,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Henrique Pinto,653.842.917-37,25,1998-09-20,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joaquim Da Cruz,532.784.910-41,30,1993-12-14,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Leandro Souza,560.218.937-86,29,1994-10-09,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Beatriz Aragão,805.134.927-04,52,1971-07-29,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carlos Eduardo Teixeira,546.310.289-98,48,1975-07-26,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joana Da Rocha,915.302.864-33,46,1978-03-05,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucas Gabriel Da Luz,203.564.197-70,18,2005-12-13,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucas Da Costa,502.416.973-52,18,2005-11-29,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Henrique Da Rocha,713.508.462-44,33,1990-09-08,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Fernandes,574.913.680-93,92,1931-05-23,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nathan Nogueira,837.624.059-56,44,1980-03-22,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Maysa Rezende,726.351.894-55,81,1942-09-08,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Erick Santos,680.219.745-67,43,1980-06-22,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Agatha Sales,983.210.675-30,91,1932-09-01,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Beatriz Moreira,637.980.145-66,63,1960-11-19,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Antônio Da Rocha,943.127.508-23,26,1998-02-28,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Vitória Viana,813.062.954-24,83,1941-03-23,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Monteiro,534.021.978-04,43,1980-06-25,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bernardo Santos,045.837.692-29,18,2005-09-09,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Guilherme Cunha,237.961.508-02,25,1999-03-31,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raul Rodrigues,193.685.240-33,47,1976-06-16,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pietra Lima,591.384.076-39,31,1993-03-28,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Camila Barbosa,560.871.293-59,37,1986-07-11,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kaique Almeida,078.359.612-02,68,1955-09-27,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Antônio Porto,015.283.479-60,87,1936-06-19,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alana Rezende,216.903.548-60,70,1953-05-23,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Almeida,134.067.985-00,42,1981-08-06,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabelly Da Mota,709.435.816-48,75,1948-05-19,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isis Oliveira,893.246.170-87,77,1946-09-28,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carolina Gomes,845.721.639-28,31,1992-05-29,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Natália Rodrigues,548.329.017-88,76,1948-03-04,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernando Ramos,032.489.657-38,51,1973-01-05,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Da Cruz,109.728.536-77,26,1997-06-11,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Noah Cavalcanti,273.901.485-60,83,1941-02-17,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Moreira,079.215.348-05,50,1974-03-30,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laura Araújo,134.059.276-25,54,1970-03-16,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Luiz Otávio Sales,472.931.058-60,77,1946-07-10,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emilly Da Mata,839.264.057-83,88,1935-10-11,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kevin Rodrigues,086.491.732-50,53,1970-09-05,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Pereira,209.851.463-89,60,1963-09-23,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thomas Silva,891.342.506-89,20,2004-03-06,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Lívia Da Cruz,135.694.780-84,85,1938-09-06,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Vicente Silveira,318.497.065-57,59,1964-11-06,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Caldeira,403.216.857-17,36,1988-01-28,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriel Costa,930.751.624-34,59,1964-04-07,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Carolina Costa,680.432.175-80,50,1973-12-15,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Fogaça,543.981.076-57,26,1997-10-29,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruna Caldeira,259.738.061-03,67,1956-05-14,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caroline Moura,593.267.014-25,30,1993-04-27,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Ana Júlia Pires,561.839.420-06,46,1977-06-19,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Larissa Fernandes,503.491.862-51,43,1981-02-21,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rodrigo Da Luz,416.279.350-61,32,1992-02-03,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carlos Eduardo Barros,730.926.451-70,31,1992-05-25,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Silva,047.183.956-66,51,1972-06-20,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Nogueira,517.209.346-06,65,1958-10-01,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Da Luz,681.534.027-90,80,1943-09-26,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Brenda Viana,154.768.092-01,75,1948-10-12,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Augusto Teixeira,360.458.927-47,93,1930-05-17,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Francisco Lima,318.062.495-70,65,1959-02-01,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isaac Da Luz,293.547.680-83,74,1949-09-12,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Calebe Jesus,068.549.237-00,46,1978-02-15,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kevin Melo,786.423.910-22,57,1966-11-05,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Miguel Peixoto,079.865.213-68,49,1975-03-26,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabrielly Almeida,498.065.732-00,29,1994-06-21,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Murilo Correia,197.630.548-93,33,1990-11-29,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Matheus Dias,156.274.038-53,81,1942-12-02,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Stella Cardoso,798.061.543-39,55,1968-08-14,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcela Barbosa,509.861.437-66,61,1963-03-04,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Carolina Pires,612.803.495-06,87,1936-04-16,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Helena Aragão,791.852.043-23,84,1940-02-19,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Gabriel Oliveira,496.325.817-09,96,1927-11-21,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Cecília Vieira,491.372.586-64,87,1936-05-14,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Rodrigues,461.372.508-90,45,1978-12-27,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nicolas Cunha,873.420.651-53,69,1954-09-01,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Hugo Ramos,485.102.396-06,29,1994-08-07,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Aragão,704.296.385-74,40,1984-02-28,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Barros,123.807.596-77,49,1974-06-14,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Gustavo Silveira,178.924.630-03,93,1931-02-16,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Júlia Fernandes,795.408.612-76,96,1927-05-16,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Miguel Novaes,754.892.163-28,26,1998-01-24,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriel Santos,142.680.957-30,21,2003-03-24,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Sophie Vieira,624.017.385-17,71,1952-04-06,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Júlia Cardoso,482.615.097-02,88,1935-07-24,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Gabriela Jesus,846.072.319-40,49,1975-03-04,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. João Gabriel Correia,038.254.716-08,48,1975-05-27,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Gustavo Jesus,625.914.807-02,98,1925-04-09,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rodrigo Ferreira,527.019.648-49,55,1969-02-27,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alícia Ribeiro,514.928.607-94,91,1932-04-28,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. André Da Mata,169.238.045-15,66,1957-12-07,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Maria Julia Campos,245.317.869-55,64,1960-02-06,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Gabriel Ferreira,018.962.437-03,94,1929-07-20,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thomas Moraes,291.743.085-05,60,1964-02-09,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Melo,860.547.139-57,62,1962-02-15,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Cavalcanti,078.159.423-50,33,1990-07-07,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Stella Da Costa,340.968.215-51,53,1970-10-31,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabella Da Paz,289.547.630-65,80,1943-12-31,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Da Rocha,874.126.390-13,43,1980-12-28,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Olivia Fernandes,016.793.584-48,50,1973-12-09,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+André Da Mata,648.073.251-08,37,1986-11-05,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Henrique Cavalcanti,938.026.157-86,78,1946-02-09,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joaquim Silveira,671.038.925-12,20,2003-07-18,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Mirella Rodrigues,216.854.907-94,46,1977-12-11,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Isabelly Azevedo,087.521.496-76,74,1949-11-23,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Samuel Ferreira,720.936.841-87,35,1989-02-02,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Otávio Carvalho,643.820.751-90,87,1936-07-09,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Stephany Da Mota,154.628.930-51,25,1999-03-16,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cauê Mendes,152.704.683-44,30,1993-12-15,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alexandre Nunes,496.028.513-33,51,1972-07-03,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Fernanda Aragão,372.810.465-53,67,1956-05-24,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Guilherme Silva,820.673.951-30,73,1951-03-20,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Rezende,753.801.692-95,73,1951-03-25,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Sophia Da Cruz,690.235.147-34,68,1955-05-27,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Das Neves,685.910.324-89,93,1930-09-02,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kamilly Da Cunha,520.916.734-80,66,1957-06-21,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Miguel Aragão,937.652.018-12,54,1970-03-11,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Ribeiro,754.829.630-47,37,1986-11-14,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Da Mota,162.038.754-90,56,1967-05-22,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuella Souza,617.392.540-07,78,1945-12-06,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cecília Pinto,498.105.627-30,24,1999-04-16,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Henrique Cunha,584.906.723-00,45,1978-12-27,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Eloah Da Mota,901.387.625-03,32,1991-05-31,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Da Rocha,159.708.423-97,21,2002-05-03,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Melissa Almeida,705.349.286-92,64,1959-08-13,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carlos Eduardo Da Mota,894.571.206-20,98,1925-08-08,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Vitor Da Mota,789.423.615-28,48,1975-05-17,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Diogo Costela,962.153.748-73,36,1987-09-28,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafaela Rodrigues,578.129.034-60,80,1943-12-10,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Hugo Da Conceição,716.394.582-55,25,1998-04-30,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Caldeira,518.346.792-73,51,1972-10-28,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Laura Silveira,472.815.960-49,95,1928-12-23,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Rafael Pereira,492.853.701-79,86,1937-06-21,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Manuela Mendes,518.390.462-60,32,1992-02-25,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Igor Lopes,073.482.961-22,29,1994-11-19,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcelo Moreira,346.801.792-87,49,1974-10-05,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thomas Costela,428.971.360-22,94,1930-03-08,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Otávio Gonçalves,637.820.451-90,63,1960-10-10,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Stella Da Costa,063.418.752-07,54,1969-12-25,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luana Da Cruz,083.527.619-86,29,1994-10-12,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Cecília Lima,132.968.450-89,27,1996-12-02,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Melissa Teixeira,642.987.103-78,70,1953-11-03,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Vinicius Pires,163.584.079-10,38,1986-02-05,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Miguel Farias,962.834.750-00,87,1936-11-03,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Correia,148.592.607-67,40,1983-05-07,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laís Costela,306.471.852-53,58,1966-01-18,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Diego Da Mata,293.810.754-41,20,2003-08-22,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Letícia Da Mota,852.671.409-02,30,1993-05-24,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luna Ferreira,843.729.051-14,54,1970-01-25,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Emanuel Silveira,430.615.728-80,29,1994-04-23,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Sales,263.185.049-15,44,1979-12-26,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Da Mata,846.350.791-39,55,1969-02-19,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabel Melo,748.691.235-09,75,1948-12-28,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raul Oliveira,298.671.453-64,93,1931-01-03,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Levi Da Mata,192.507.348-32,61,1962-10-21,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heloísa Castro,587.410.632-44,62,1961-05-15,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Júlia Da Paz,046.725.893-74,37,1986-08-19,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luana Viana,213.679.850-21,26,1998-04-01,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Renan Sales,364.790.582-83,22,2001-04-17,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caio Aragão,714.325.068-62,22,2001-11-19,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Lavínia Ribeiro,263.019.854-51,75,1948-11-19,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sofia Da Mata,806.539.147-84,21,2002-05-16,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+André Araújo,819.260.374-13,43,1980-04-26,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nathan Azevedo,285.976.143-82,85,1939-02-12,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Camila Teixeira,982.743.106-40,46,1977-08-13,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Clara Souza,510.347.682-71,25,1998-08-20,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yuri Nascimento,129.578.463-73,57,1966-09-28,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Marcela Gonçalves,148.296.730-87,83,1940-11-03,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Ramos,936.270.418-87,50,1973-08-28,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Renan Rocha,720.384.569-92,42,1981-10-08,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Caio Souza,453.618.092-33,50,1973-07-02,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clarice Farias,743.692.081-22,55,1968-12-22,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcos Vinicius Jesus,597.862.304-00,72,1951-10-12,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Pedro Nunes,910.853.462-42,34,1989-09-16,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Levi Farias,659.421.730-52,45,1978-12-03,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Enzo Da Costa,791.654.308-75,40,1983-05-07,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heloísa Alves,029.178.345-79,86,1937-10-06,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Henrique Da Mota,842.957.163-91,20,2004-02-17,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Camila Caldeira,903.721.486-03,54,1969-04-23,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Arthur Mendes,918.452.370-05,50,1973-12-23,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Felipe Campos,362.759.410-06,54,1970-03-28,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Guilherme Azevedo,174.509.362-16,61,1962-07-24,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Laura Cunha,364.701.829-50,46,1977-12-22,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Noah Moraes,108.237.569-12,55,1969-04-03,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucca Lopes,260.158.347-90,33,1990-11-27,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophia Da Cruz,621.439.805-15,39,1984-07-30,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Igor Da Luz,740.681.529-85,46,1977-12-16,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Samuel Nascimento,692.581.734-73,86,1937-07-30,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Fernanda Freitas,968.451.273-28,66,1957-08-10,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Costa,206.795.138-68,28,1995-10-31,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorenzo Monteiro,069.471.258-20,43,1980-07-16,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caroline Cardoso,618.307.245-17,51,1972-09-08,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Henrique Da Rocha,329.504.167-99,21,2003-01-09,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucas Gabriel Oliveira,743.568.920-38,51,1972-08-04,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Arthur Jesus,418.370.659-93,96,1927-05-27,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcos Vinicius Da Cunha,572.130.964-43,48,1976-01-16,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Antônio Nogueira,061.387.542-71,19,2004-08-11,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophia Monteiro,601.245.398-15,90,1933-10-22,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Leandro Silva,497.058.612-85,56,1967-12-07,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Amanda Farias,185.243.670-08,99,1924-07-31,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Luna Peixoto,912.405.387-23,53,1970-12-14,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Igor Campos,183.502.746-62,54,1969-08-17,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Sophia Correia,948.731.065-75,98,1925-10-03,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruno Da Cruz,293.415.687-73,22,2001-06-02,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Amanda Cavalcanti,351.698.247-00,55,1968-12-13,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruno Melo,721.469.053-52,58,1965-06-26,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Elisa Nunes,875.013.249-05,35,1989-01-12,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Calebe Ramos,942.816.307-40,59,1964-05-05,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Arthur Moraes,306.927.841-87,80,1943-10-01,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Júlia Silveira,913.476.508-57,73,1950-11-18,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Isabelly Silva,732.568.049-00,34,1989-08-28,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Otávio Azevedo,457.821.069-30,79,1944-11-09,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Cecília Aragão,264.571.809-49,99,1925-01-09,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Noah Da Rosa,742.960.813-22,58,1965-05-02,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Laura Azevedo,540.326.187-71,37,1986-06-16,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Francisco Moreira,702.483.165-08,24,1999-08-25,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Mariane Das Neves,912.546.308-05,44,1979-10-27,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Monteiro,309.546.872-56,33,1990-09-15,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Diego Da Rocha,093.845.726-83,36,1988-01-24,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Da Cruz,798.526.104-49,86,1937-04-28,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Sophia Gomes,384.961.725-46,44,1979-07-27,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Costa,502.176.894-85,52,1971-08-17,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Felipe Souza,187.950.346-84,55,1968-09-30,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luana Novaes,287.430.169-87,78,1945-12-05,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Yasmin Nogueira,360.925.841-15,48,1975-10-29,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benício Melo,904.652.781-67,21,2002-12-07,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Daniela Aragão,726.304.851-53,58,1965-07-06,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Luiz Sales,740.692.138-13,44,1979-07-24,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Souza,904.358.126-70,85,1938-10-08,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Eduarda Ferreira,438.256.190-60,74,1949-09-28,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Diogo Lima,302.846.957-00,29,1994-12-06,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Carlos Eduardo Araújo,496.802.735-47,39,1984-11-09,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marina Gomes,934.587.620-00,98,1925-12-25,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gustavo Henrique Duarte,254.130.968-60,23,2000-05-29,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caio Ramos,832.941.657-73,27,1996-11-06,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Nunes,462.971.358-19,88,1935-04-10,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Cardoso,726.801.549-67,37,1987-01-26,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Cardoso,065.781.243-90,18,2005-07-25,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Daniel Pires,274.530.968-47,39,1984-06-13,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Brenda Da Mata,532.841.679-19,44,1980-02-29,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Dias,852.910.634-24,38,1985-11-17,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gustavo Henrique Da Costa,917.230.485-50,19,2005-03-08,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Theo Fogaça,091.584.236-05,48,1975-06-26,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Alexia Carvalho,483.106.527-71,24,2000-03-31,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Juliana Martins,432.807.956-56,84,1939-06-04,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Gustavo Da Rosa,280.753.914-97,85,1938-06-09,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Freitas,367.520.481-26,30,1994-03-10,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Vieira,812.564.079-76,22,2002-01-28,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Luna Nascimento,815.732.049-60,69,1954-06-13,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Da Mata,971.238.045-97,70,1953-04-10,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clarice Alves,973.846.520-65,22,2001-12-02,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Catarina Rodrigues,138.640.975-84,84,1939-11-26,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Antônio Vieira,017.236.854-53,89,1934-10-25,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Nicolas Da Conceição,105.236.748-80,25,1998-06-04,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Alice Da Costa,290.738.654-92,88,1936-02-17,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Lucca Martins,906.435.128-70,56,1967-08-30,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Pedro Costa,532.940.718-41,68,1955-09-12,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Gonçalves,034.719.856-20,97,1926-09-20,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Ferreira,326.490.578-74,72,1952-01-29,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sabrina Da Mata,172.548.960-02,30,1994-01-31,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alexandre Das Neves,183.904.625-24,93,1930-07-19,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isadora Da Cunha,471.928.063-31,54,1969-08-31,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Luigi Fernandes,834.265.197-55,72,1951-07-16,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Yago Cavalcanti,758.901.423-05,93,1931-03-01,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carolina Peixoto,396.720.418-96,63,1960-06-26,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Lívia Porto,067.412.835-44,74,1949-09-26,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Henrique Da Mata,896.724.305-74,33,1990-12-25,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enrico Aragão,490.851.376-75,93,1930-06-30,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Cavalcanti,523.064.179-70,25,1998-09-15,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucca Melo,731.984.025-14,96,1928-02-22,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clarice Fernandes,192.763.485-73,87,1936-12-27,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Luiz Fernando Das Neves,146.387.259-37,58,1966-02-21,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caio Azevedo,428.759.361-82,73,1951-03-04,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enrico Novaes,457.692.038-38,73,1950-11-08,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Clara Moreira,075.412.368-53,87,1936-12-15,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enrico Ribeiro,965.734.108-66,26,1998-02-24,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Evelyn Aragão,548.372.061-07,85,1938-04-19,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thales Moreira,406.135.728-07,63,1960-07-31,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heitor Mendes,097.426.351-61,56,1968-01-13,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sarah Nascimento,938.574.026-10,40,1983-05-14,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Yasmin Melo,510.274.968-49,18,2005-07-22,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Marcelo Costela,895.603.427-38,23,2000-08-16,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Cecília Araújo,752.943.601-52,76,1948-03-20,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Ribeiro,965.231.708-02,63,1960-06-20,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Miguel Da Rosa,168.907.235-03,43,1980-04-24,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Vitória Ferreira,914.863.027-69,23,2000-11-09,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Vitor Gabriel Gomes,348.902.157-60,48,1975-11-29,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bianca Pinto,541.908.362-06,80,1943-05-29,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Igor Melo,519.307.648-39,97,1927-03-31,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Vitória Carvalho,528.049.736-38,35,1989-02-20,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sofia Duarte,412.835.697-28,18,2005-07-09,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Brenda Nogueira,160.294.358-33,56,1967-07-23,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Fogaça,569.137.028-68,93,1931-03-04,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Nascimento,295.701.634-61,72,1951-11-22,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Juan Da Rocha,475.683.021-80,74,1949-10-02,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Rocha,531.672.409-70,32,1992-01-11,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Alice Da Rocha,906.324.817-22,90,1933-12-22,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Elisa Lopes,790.412.658-30,99,1924-07-02,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucca Pereira,597.038.421-60,70,1954-01-28,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marina Fogaça,410.275.689-20,61,1962-04-07,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bernardo Ramos,105.689.243-98,80,1943-09-03,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Lívia Lopes,971.503.862-02,63,1960-11-10,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Miguel Silva,920.437.568-00,40,1984-02-28,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Arthur Da Cruz,693.084.275-38,83,1940-06-24,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Julia Da Mota,571.402.968-20,75,1948-09-30,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Agatha Rocha,853.279.160-30,52,1971-11-01,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabel Cardoso,608.127.493-40,95,1928-08-11,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcos Vinicius Moura,451.293.876-19,64,1959-11-29,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Levi Da Cunha,718.469.350-75,98,1925-04-28,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cauã Vieira,427.103.569-61,76,1947-07-29,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Alice Ferreira,105.239.746-80,37,1986-05-01,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Isabelly Souza,725.469.810-30,33,1990-05-23,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heitor Rezende,174.689.053-39,72,1951-09-28,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Vitória Jesus,493.861.520-70,47,1977-02-16,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuel Duarte,762.084.591-76,21,2003-02-23,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ian Lima,163.458.907-66,86,1937-07-05,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Alves,687.901.342-22,27,1996-06-13,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Ramos,946.581.073-84,69,1954-05-17,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ryan Da Cunha,412.637.059-52,86,1937-11-04,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Da Cunha,539.201.486-06,77,1946-10-07,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Milena Cardoso,832.047.961-40,66,1958-03-07,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bryan Ramos,043.619.582-89,30,1993-10-30,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Santos,273.940.165-52,37,1987-01-04,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabella Duarte,023.856.714-17,43,1980-09-28,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Azevedo,214.796.580-49,97,1926-08-11,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Matheus Carvalho,592.863.174-09,60,1963-08-31,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Júlia Da Cruz,714.093.856-39,94,1930-02-12,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Peixoto,489.215.063-06,76,1947-07-24,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Amanda Castro,305.817.249-41,43,1980-04-05,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucas Lima,240.719.568-01,91,1932-06-16,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raquel Ramos,052.793.146-25,66,1957-10-16,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Rebeca Nascimento,431.987.625-37,82,1941-04-07,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Theo Da Conceição,846.571.329-46,29,1995-03-22,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thiago Da Cunha,631.409.258-24,90,1933-06-08,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucas Moreira,169.854.207-02,59,1964-12-30,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Helena Costela,950.372.681-68,28,1996-02-01,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Beatriz Peixoto,243.718.069-96,80,1943-04-11,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Fernandes,846.057.921-20,48,1976-02-02,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabrielly Almeida,831.540.927-14,66,1958-01-11,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Sales,439.526.781-55,75,1948-08-19,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Otávio Costa,095.216.837-59,36,1987-08-09,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Ana Beatriz Da Mata,429.807.615-67,91,1933-01-28,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Rodrigues,594.081.276-76,25,1999-02-19,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nathan Farias,521.097.438-32,39,1985-01-12,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Rafael Pereira,581.967.342-55,56,1967-07-15,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Júlia Pereira,871.263.590-12,29,1995-02-08,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Laura Barbosa,031.769.482-04,67,1956-12-23,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Juliana Pinto,385.410.967-93,70,1953-12-18,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joana Monteiro,138.960.745-39,55,1968-09-29,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Yago Da Rocha,698.157.432-28,75,1948-06-15,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Miguel Nogueira,869.312.407-22,56,1967-07-12,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isadora Da Rocha,725.134.690-70,95,1929-02-20,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Costela,380.179.245-50,81,1942-07-13,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Enzo Gabriel Rocha,473.526.019-61,62,1962-04-03,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maysa Monteiro,615.387.024-44,94,1929-10-27,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Alice Da Rosa,710.863.549-66,29,1994-05-09,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maysa Lopes,196.075.284-76,60,1963-05-30,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Yasmin Jesus,586.104.732-44,91,1932-05-28,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Mariana Costela,372.684.905-00,38,1985-11-09,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Almeida,842.609.735-92,35,1988-11-23,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sofia Aragão,687.231.504-08,35,1988-08-13,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Elisa Barros,546.180.379-20,27,1997-01-19,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joana Silva,349.051.867-57,24,1999-09-19,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorenzo Porto,812.943.670-13,63,1960-05-14,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitória Barbosa,583.672.910-77,47,1976-10-19,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alícia Da Rosa,035.689.421-51,83,1940-04-05,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucas Monteiro,739.164.508-75,97,1926-12-11,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rodrigo Caldeira,816.723.954-37,47,1976-12-22,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luna Rezende,456.197.830-57,51,1972-05-21,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Diogo Rezende,680.419.253-24,80,1943-12-01,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Anthony Da Costa,805.693.271-21,65,1959-01-09,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Cecília Vieira,716.239.854-55,58,1965-07-10,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Maria Julia Novaes,019.487.625-01,42,1981-04-27,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Pedro Peixoto,243.158.976-55,64,1960-02-10,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alana Fernandes,198.257.643-09,47,1976-08-29,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Mirella Rezende,247.910.538-50,50,1973-08-29,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabrielly Moreira,608.432.751-62,52,1971-09-18,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Sofia Souza,605.384.719-48,90,1933-06-14,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Mariane Melo,735.619.820-77,74,1949-12-16,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Souza,048.652.197-49,36,1987-06-15,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernando Da Mata,280.156.437-08,27,1996-06-30,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laura Cardoso,821.405.736-17,29,1994-04-26,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marina Da Cruz,724.183.650-26,51,1972-06-21,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Rocha,163.247.980-03,39,1984-11-02,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Henrique Almeida,318.764.950-57,46,1977-08-25,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Davi Luiz Nunes,604.579.123-16,88,1935-08-19,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Gabriel Costela,175.409.326-43,56,1967-04-15,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Luigi Barbosa,641.739.085-39,99,1924-11-24,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rodrigo Azevedo,687.410.953-75,22,2001-12-06,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Henrique Cardoso,324.017.958-04,50,1973-05-31,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. João Cardoso,032.758.964-74,19,2005-03-03,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Nunes,381.756.402-35,76,1947-10-09,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernanda Duarte,453.216.980-15,23,2000-10-31,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcos Vinicius Oliveira,280.153.796-95,81,1943-03-02,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Leandro Aragão,124.573.098-32,99,1924-10-17,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Alice Vieira,832.506.714-44,68,1955-05-04,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Luiza Jesus,541.896.327-91,65,1958-06-14,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Guilherme Cardoso,197.582.630-21,72,1952-03-27,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Felipe Azevedo,439.160.725-52,49,1975-03-19,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nathan Araújo,813.402.695-89,60,1963-06-14,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Ferreira,467.319.852-28,79,1945-01-22,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Felipe Da Mata,634.920.187-69,85,1938-12-02,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Azevedo,789.531.604-48,67,1956-04-27,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Barbosa,231.648.705-07,20,2003-05-18,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Isis Da Cruz,073.618.249-78,89,1934-08-30,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Otávio Da Mata,835.072.469-29,51,1972-05-06,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Castro,165.328.479-09,40,1983-05-27,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Diogo Da Cunha,263.895.041-60,33,1990-05-29,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benício Fernandes,389.160.527-77,30,1993-09-13,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Pedro Silva,523.846.091-06,45,1978-12-25,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heloísa Cunha,260.935.487-83,20,2003-11-15,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruno Novaes,190.734.658-93,72,1951-04-05,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Levi Cavalcanti,291.367.458-55,80,1944-03-25,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Pedro Lopes,407.389.216-96,53,1970-04-15,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heloísa Da Luz,569.471.830-57,61,1963-01-03,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Gomes,298.036.457-65,20,2004-03-18,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Vieira,623.518.490-51,97,1927-01-05,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Ramos,160.527.493-34,46,1977-09-06,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Hugo Ramos,286.790.413-78,73,1951-02-14,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Julia Nascimento,197.034.862-31,63,1960-10-04,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Enrico Carvalho,254.079.386-00,54,1969-04-10,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Hugo Cunha,701.638.549-39,91,1933-02-02,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Samuel Moura,402.517.398-05,22,2001-11-24,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luana Nascimento,314.726.089-50,30,1993-12-13,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Maria Vitória Viana,250.397.846-00,98,1926-03-20,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Calebe Duarte,936.124.087-04,60,1963-05-07,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Leonardo Costela,624.850.739-29,31,1992-11-16,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benício Moreira,136.294.085-24,44,1980-01-21,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucca Mendes,819.720.564-76,83,1940-10-16,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Farias,741.608.539-00,87,1936-05-09,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruna Da Rocha,845.291.376-19,62,1961-06-10,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heitor Nascimento,493.578.106-84,81,1942-06-30,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Porto,629.875.103-30,27,1996-04-24,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Miguel Da Paz,647.531.029-80,30,1993-06-20,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Pietra Duarte,913.870.246-04,95,1928-07-02,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eloah Cunha,908.156.243-60,22,2001-10-13,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruna Rodrigues,625.170.489-67,21,2002-04-06,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Felipe Monteiro,172.589.603-68,97,1926-12-21,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isis Campos,178.409.325-41,38,1986-01-03,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Novaes,586.721.034-08,77,1946-07-07,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yago Porto,907.486.135-01,42,1981-07-29,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Guilherme Campos,354.908.721-79,55,1968-11-20,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Moraes,297.413.560-99,26,1998-04-02,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Gabriel Jesus,790.215.864-01,98,1925-06-10,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Vitor Hugo Rezende,796.504.218-58,28,1995-06-07,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Arthur Carvalho,081.475.329-97,38,1985-12-10,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ryan Mendes,239.647.518-55,45,1978-04-27,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Laura Silva,485.623.907-47,77,1946-04-24,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorenzo Novaes,370.214.859-05,44,1979-08-31,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cauê Cardoso,019.326.548-60,18,2005-08-09,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Ana Luiza Silveira,324.769.180-40,82,1941-05-07,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lavínia Azevedo,318.962.570-03,75,1948-10-17,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Letícia Jesus,451.962.387-19,76,1947-04-25,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruna Ribeiro,352.689.470-10,71,1952-09-11,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Theo Da Mata,758.604.312-44,65,1958-08-04,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Gabriel Porto,956.247.831-91,51,1972-08-14,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Freitas,178.405.623-53,73,1950-08-31,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Otávio Barros,683.710.592-21,26,1997-04-16,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yasmin Gomes,827.516.430-35,99,1924-06-28,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sofia Novaes,576.349.820-83,44,1979-07-31,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ian Da Luz,152.378.096-77,35,1988-10-26,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Luiz Souza,857.341.602-53,76,1947-10-04,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cecília Araújo,032.146.758-26,19,2004-08-02,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Gustavo Duarte,381.072.456-44,59,1964-10-03,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Julia Cardoso,704.253.981-88,27,1996-10-19,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabrielly Lima,560.172.389-30,98,1925-06-30,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heloísa Ribeiro,437.291.568-37,63,1960-12-19,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Letícia Costa,530.469.218-70,43,1980-05-19,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Beatriz Da Rocha,438.759.201-04,79,1944-12-18,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benjamin Moura,975.431.028-97,21,2002-04-15,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Julia Fogaça,103.764.259-70,37,1986-05-15,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Da Mata,354.672.908-00,40,1983-08-09,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernanda Oliveira,102.938.745-14,42,1981-10-30,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laura Das Neves,723.640.589-29,25,1999-02-26,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lívia Teixeira,694.720.583-29,39,1984-05-09,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eloah Moreira,904.361.758-00,89,1934-06-08,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lívia Cardoso,619.543.702-61,87,1936-05-14,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Augusto Freitas,930.751.648-01,62,1961-08-23,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raquel Fernandes,467.250.891-94,76,1947-05-24,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Anthony Da Costa,614.295.730-07,32,1991-06-12,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Murilo Melo,431.069.572-80,22,2001-11-21,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Mirella Barbosa,430.561.789-75,85,1939-01-31,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Das Neves,437.950.268-65,40,1983-04-17,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruno Da Cunha,259.608.134-24,29,1994-05-08,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alexandre Rodrigues,740.685.192-85,57,1966-07-07,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Natália Rezende,784.015.962-11,61,1962-04-30,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emilly Caldeira,732.591.046-07,23,2000-05-28,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Levi Azevedo,639.852.417-91,85,1939-02-05,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nicole Da Rocha,567.238.104-90,23,2000-10-07,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joana Moreira,435.012.968-51,64,1959-08-18,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Eduarda Almeida,573.694.082-56,72,1952-03-12,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcela Da Cruz,876.904.123-78,92,1932-03-05,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Helena Nunes,843.906.512-42,86,1937-08-16,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isaac Oliveira,209.418.756-01,50,1973-08-22,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Manuela Pinto,094.728.615-20,39,1984-04-13,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bryan Ramos,681.425.907-94,35,1988-06-03,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Enzo Gabriel Fernandes,769.083.251-21,18,2005-08-24,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Brenda Ramos,269.478.305-83,97,1926-04-19,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yuri Rezende,564.392.810-89,97,1926-04-17,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Miguel Da Costa,630.714.952-34,74,1950-03-09,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Nogueira,187.306.492-69,62,1961-08-01,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucca Azevedo,035.761.849-10,67,1956-09-30,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Otávio Fernandes,716.089.542-85,69,1954-08-08,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thomas Correia,083.695.147-66,77,1947-02-14,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucca Teixeira,647.105.832-26,82,1941-11-16,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Gustavo Ribeiro,149.782.036-78,29,1994-09-19,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pietra Da Mata,427.051.638-08,66,1957-05-27,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joaquim Azevedo,016.243.957-16,69,1955-03-25,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Agatha Melo,506.139.824-60,26,1998-02-10,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Lopes,613.875.920-68,55,1969-04-02,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Marcelo Cardoso,862.405.317-07,78,1945-04-15,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Catarina Moreira,207.584.916-11,33,1991-03-29,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heitor Vieira,089.275.634-92,74,1950-01-27,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Fernando Da Luz,071.354.698-01,73,1950-04-09,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sabrina Silva,216.943.807-69,84,1939-06-06,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Henrique Martins,648.913.572-82,45,1978-10-21,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Catarina Carvalho,196.045.738-10,46,1977-05-29,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Vitória Azevedo,529.648.701-01,76,1947-08-10,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thales Campos,412.839.065-89,81,1943-03-08,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thales Oliveira,369.124.870-50,82,1941-06-24,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernanda Cavalcanti,912.605.384-51,70,1953-11-28,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. João Gabriel Da Conceição,831.674.905-00,46,1977-08-31,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Noah Barros,310.286.579-86,32,1991-12-22,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Felipe Novaes,685.213.097-59,51,1972-10-29,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Fernando Aragão,120.947.865-01,19,2004-09-15,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Júlia Cardoso,812.569.704-76,82,1941-11-04,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marina Ramos,068.459.237-10,60,1963-05-08,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Joana Lopes,619.802.457-11,57,1966-06-26,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabel Duarte,146.897.230-87,57,1966-12-27,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Paulo Jesus,078.429.635-92,53,1970-04-25,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laura Costa,540.362.179-25,84,1940-02-27,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Milena Pinto,280.361.495-24,64,1960-02-29,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Danilo Ribeiro,109.426.753-80,67,1956-06-20,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lívia Nunes,742.380.591-23,49,1975-03-14,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alícia Rodrigues,349.576.012-16,51,1972-08-26,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Agatha Rezende,057.128.349-79,94,1929-10-25,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Juliana Santos,605.283.719-59,93,1930-09-18,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Fernanda Da Conceição,408.753.129-50,62,1961-09-26,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Daniela Barbosa,861.325.749-64,35,1988-04-19,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Arthur Pinto,562.304.791-25,30,1993-07-08,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuel Aragão,910.648.375-57,41,1982-09-04,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Alice Vieira,936.471.508-00,77,1946-12-28,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Cecília Moreira,805.671.324-71,65,1959-02-18,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+,532.789.041-41,73,1950-10-01,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Vitória Campos,380.514.679-57,55,1968-07-05,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabel Da Conceição,819.074.635-93,89,1934-11-12,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+,013.469.728-69,44,1979-09-06,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Thomas Nunes,967.831.542-46,81,1942-08-14,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucca Moura,718.324.506-35,37,1986-12-20,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Diogo Souza,169.208.537-95,65,1958-07-13,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Juliana Costa,980.314.567-39,53,1970-08-20,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Da Costa,739.064.581-48,88,1935-07-10,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alana Freitas,427.865.193-73,50,1973-07-15,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Murilo Ramos,374.259.681-00,97,1927-01-02,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cecília Souza,294.870.651-30,20,2003-04-15,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raul Martins,187.365.402-26,96,1927-10-17,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Renan Cavalcanti,072.685.391-77,69,1954-05-29,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Diego Pires,842.107.593-41,34,1989-10-25,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sofia Da Rocha,719.034.862-03,57,1966-10-08,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorenzo Dias,271.346.098-04,98,1925-09-08,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Vitor Souza,426.583.097-83,73,1950-11-04,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Gabriel Cardoso,354.802.917-50,30,1993-10-14,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Rodrigues,790.846.152-20,98,1925-07-17,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Teixeira,745.360.218-17,76,1947-07-26,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Daniel Oliveira,753.108.264-08,34,1989-09-09,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isadora Nogueira,129.350.847-05,29,1994-10-29,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Fernando Moraes,768.291.350-95,96,1927-08-06,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiza Araújo,246.095.783-10,70,1954-03-28,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Luiza Pires,620.159.487-67,46,1977-08-23,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Lucas Das Neves,974.016.258-49,49,1975-03-17,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Gabriel Carvalho,387.652.940-92,86,1937-08-14,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Henrique Sales,196.308.745-39,57,1966-05-21,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Henrique Ferreira,360.921.457-07,29,1994-10-25,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Raquel Da Mota,263.497.108-78,33,1991-01-02,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Levi Melo,513.948.627-09,35,1988-05-03,Desconhecido,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Luiza Gomes,287.963.510-12,32,1991-08-14,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isaac Fernandes,572.193.064-07,77,1946-04-26,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Leandro Fernandes,018.526.394-15,65,1958-10-19,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Breno Sales,135.280.496-42,77,1946-05-08,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafael Araújo,481.270.635-17,84,1939-09-25,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduardo Da Costa,043.291.768-31,73,1950-06-14,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Larissa Fernandes,562.739.148-00,97,1926-07-18,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Da Rocha,864.129.570-49,80,1944-01-20,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Aragão,362.578.140-90,76,1947-10-07,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Ian Barbosa,149.706.235-70,66,1957-10-27,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ian Cardoso,731.240.968-78,83,1940-04-23,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Gabriel Ferreira,916.428.705-01,53,1970-10-29,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rodrigo Melo,982.136.054-89,43,1980-07-04,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Anthony Rezende,831.756.409-66,93,1930-07-16,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Bianca Farias,783.506.142-26,32,1991-10-30,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Carvalho,298.370.514-50,91,1932-10-22,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benício Da Costa,783.564.021-07,28,1995-07-03,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yuri Alves,896.315.072-03,86,1937-10-16,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Da Rosa,210.396.874-31,76,1947-12-18,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Da Conceição,238.670.945-00,99,1925-01-09,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vicente Aragão,875.032.149-88,96,1927-11-03,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Sabrina Teixeira,682.413.095-89,87,1936-06-01,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Antônio Santos,198.572.630-03,85,1938-09-14,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Lucca Pinto,526.938.714-09,21,2002-10-26,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emilly Vieira,924.508.631-33,71,1952-11-01,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Gabriel Da Mata,701.684.923-69,59,1965-02-28,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuella Azevedo,406.759.813-01,69,1954-11-23,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Julia Rocha,618.542.930-60,47,1976-08-18,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Milena Castro,482.675.391-82,60,1964-02-06,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lavínia Peixoto,204.378.591-50,72,1951-11-08,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Gabriel Gomes,893.267.104-40,28,1995-12-20,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laura Fogaça,196.027.534-80,34,1989-12-12,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Vitor Da Mata,062.317.498-78,60,1963-10-06,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Pinto,023.874.619-40,29,1995-01-27,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Kaique Peixoto,726.980.354-47,62,1962-03-20,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Henrique Mendes,248.671.095-76,90,1934-01-18,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Felipe Barros,569.174.380-57,48,1975-04-08,Desconhecido,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Beatriz Pereira,798.130.564-01,54,1970-01-01,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Rafael Silva,238.694.105-15,26,1997-04-26,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Olivia Mendes,189.425.703-05,90,1933-10-10,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduardo Sales,052.439.678-74,39,1984-12-11,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+André Rodrigues,375.146.289-91,73,1951-02-18,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophia Cavalcanti,092.836.475-56,91,1932-05-25,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Carolina Sales,519.078.623-40,32,1992-02-06,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lucas Monteiro,654.938.217-37,76,1947-06-29,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Felipe Dias,850.643.912-42,52,1972-04-03,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Ian Fogaça,248.307.519-32,93,1931-01-25,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Barros,785.063.942-10,83,1940-04-24,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Ana Clara Teixeira,760.213.958-59,49,1974-11-23,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Natália Monteiro,481.507.239-60,81,1942-10-22,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Duarte,893.752.061-30,20,2003-10-10,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Larissa Carvalho,632.785.914-37,91,1932-05-21,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lara Moraes,549.683.127-09,18,2005-09-02,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Da Rosa,254.937.810-50,97,1926-10-06,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Olivia Martins,391.758.460-39,82,1941-04-13,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Thomas Barros,105.832.679-12,72,1951-07-31,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Luiz Azevedo,478.213.906-31,59,1964-11-30,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Danilo Santos,297.468.531-55,97,1926-12-17,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Enzo Porto,496.105.872-67,98,1925-04-20,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bianca Alves,304.856.971-57,67,1956-11-22,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alexia Das Neves,267.095.384-00,85,1938-04-16,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Esther Campos,523.648.017-53,58,1965-07-25,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Júlia Freitas,584.163.270-17,58,1965-06-28,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Vitória Da Mata,826.549.107-76,57,1967-01-02,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ryan Da Mata,172.394.650-80,20,2003-06-17,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emilly Ribeiro,584.039.721-05,22,2002-03-16,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bernardo Pinto,217.358.960-12,94,1929-10-07,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nicole Peixoto,829.610.543-89,67,1956-12-02,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isaac Da Conceição,867.904.512-85,75,1948-11-10,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucca Santos,571.896.432-73,62,1962-01-22,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Paulo Lopes,186.920.475-11,67,1956-05-05,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sophie Vieira,938.740.256-83,36,1987-06-09,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rodrigo Da Cruz,648.157.092-11,51,1973-01-20,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Samuel Barbosa,903.148.725-23,30,1993-12-08,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Cauê Ramos,109.742.536-34,70,1953-07-26,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruno Jesus,354.129.068-42,27,1997-03-19,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lívia Correia,843.267.059-65,52,1972-01-20,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enrico Da Rocha,241.085.396-05,26,1997-08-11,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rafaela Aragão,269.480.317-22,73,1950-06-18,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Marcos Vinicius Farias,475.216.309-80,88,1936-01-19,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Larissa Lopes,015.672.389-12,78,1946-03-27,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isadora Carvalho,917.830.264-13,99,1924-09-06,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Vitor Da Rocha,234.809.516-51,77,1946-05-21,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isadora Pereira,501.489.326-06,92,1932-01-08,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Bernardo Da Cunha,147.253.908-79,50,1973-10-24,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabrielly Mendes,954.823.710-50,46,1977-04-13,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Bruno Da Mata,473.961.502-99,94,1930-03-18,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Rocha,237.651.094-52,59,1964-05-01,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Ferreira,148.627.593-19,69,1954-08-11,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucca Da Cruz,862.147.309-78,71,1952-08-19,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Henrique Almeida,824.936.710-31,59,1964-10-26,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Vitor Hugo Caldeira,943.521.086-42,36,1988-01-29,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alexia Souza,348.750.169-48,70,1953-09-20,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiza Azevedo,683.725.094-92,73,1950-10-15,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Kaique Da Mota,143.052.798-60,91,1932-10-03,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laura Lima,051.892.473-41,82,1941-07-19,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raul Rodrigues,039.428.156-05,55,1969-03-10,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Joaquim Melo,305.162.978-21,91,1932-11-23,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Benjamin Cardoso,054.738.621-44,80,1943-09-08,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Miguel Lopes,741.632.085-26,33,1990-05-07,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Letícia Da Mota,587.163.902-02,24,2000-02-26,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Levi Da Rocha,840.965.372-92,40,1983-10-09,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lorena Caldeira,625.938.410-60,53,1971-02-02,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Cauê Nogueira,473.829.561-64,96,1927-08-30,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Yasmin Ferreira,805.297.631-68,85,1938-08-29,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Nicole Almeida,529.718.403-79,90,1934-03-05,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernando Pereira,560.237.918-59,47,1977-03-11,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Pereira,916.278.345-91,28,1995-08-09,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Clara Dias,190.853.247-50,38,1985-11-16,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Milena Vieira,237.186.094-87,69,1954-09-16,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Gabriel Porto,394.076.152-43,86,1937-06-14,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Erick Da Rosa,971.680.543-84,25,1998-12-14,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcos Vinicius Da Cunha,709.168.342-04,32,1991-07-25,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Nina Pires,651.847.023-26,44,1979-09-23,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Felipe Ribeiro,259.386.014-60,77,1946-10-24,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Porto,864.015.273-07,35,1989-01-18,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Cardoso,125.370.849-50,35,1988-05-28,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rebeca Da Paz,047.196.853-66,57,1966-04-11,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enrico Gonçalves,637.954.128-46,84,1940-01-24,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Murilo Campos,031.429.876-22,97,1926-09-20,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Olivia Porto,608.592.743-65,38,1985-12-23,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Mirella Da Conceição,854.702.193-05,39,1984-11-21,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Stephany Cardoso,453.287.196-46,89,1934-06-09,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Enrico Melo,829.635.104-89,99,1924-09-05,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Gabriel Souza,432.516.079-52,23,2000-06-21,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Jesus,914.326.570-70,51,1972-11-27,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Guilherme Freitas,517.032.496-07,43,1980-07-12,SANTA CATARINA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Theo Costa,705.914.826-49,81,1942-07-20,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Gustavo Henrique Das Neves,430.965.178-00,98,1925-11-26,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Luiza Gomes,821.346.507-53,79,1944-11-02,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Lucas Peixoto,610.347.258-07,36,1987-04-07,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruna Almeida,610.958.743-57,72,1952-03-26,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Juliana Ramos,846.532.901-05,20,2003-07-11,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sarah Nascimento,560.143.972-99,77,1946-06-30,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Brenda Da Luz,037.641.982-22,74,1950-03-11,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heloísa Da Costa,648.975.132-19,80,1943-08-12,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuella Araújo,758.319.462-82,64,1960-02-21,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Vitor Viana,036.791.524-34,65,1958-04-13,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yago Lopes,720.351.896-59,75,1948-05-05,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lívia Souza,308.769.421-50,35,1988-09-11,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Cavalcanti,359.710.248-41,56,1967-04-05,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Nogueira,309.527.864-00,82,1942-01-30,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Ian Barbosa,412.836.097-03,90,1933-04-10,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabriela Rocha,348.067.512-35,34,1989-11-17,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Martins,576.129.803-12,81,1942-11-12,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Marina Santos,950.827.316-02,57,1966-04-11,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heloísa Teixeira,635.018.274-07,87,1936-05-23,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Paulo Farias,593.618.240-15,72,1951-11-18,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Gabrielly Cardoso,127.539.460-43,95,1928-07-26,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Davi Aragão,598.126.074-20,35,1988-09-24,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Yago Peixoto,380.294.156-05,95,1929-02-12,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Erick Da Conceição,983.705.642-83,60,1963-08-25,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isis Araújo,216.940.837-13,69,1954-06-08,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Nicolas Rezende,460.951.872-49,41,1982-07-01,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Samuel Nascimento,914.356.082-24,65,1958-12-09,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Maria Fernanda Barbosa,718.340.692-03,89,1934-11-02,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiz Felipe Farias,069.853.472-74,80,1943-04-26,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Calebe Silva,402.895.671-49,61,1962-05-24,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Emanuella Gonçalves,107.258.963-02,69,1954-07-17,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Augusto Oliveira,246.503.781-17,32,1992-02-27,GOIÁS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Pedro Azevedo,953.478.062-65,68,1956-03-02,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Maria Luiza Fogaça,650.138.924-06,67,1956-12-12,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eduarda Oliveira,365.297.480-83,58,1965-09-27,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Paulo Ramos,490.257.316-43,21,2002-11-13,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Beatriz Pires,275.691.803-21,34,1990-03-11,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernando Azevedo,790.612.435-99,28,1995-05-19,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eloah Silva,037.562.194-61,89,1935-03-30,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caio Araújo,407.953.128-14,34,1989-12-18,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sra. Valentina Sales,269.401.378-31,84,1939-08-08,PARANÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Melissa Cunha,719.234.568-73,25,1999-02-17,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Laís Da Paz,139.650.248-33,97,1927-01-09,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Heitor Silveira,183.062.459-89,89,1935-02-19,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Fernanda Moraes,064.153.782-44,45,1979-03-18,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alana Souza,801.249.653-42,50,1973-12-06,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Srta. Caroline Da Rosa,192.846.350-98,51,1972-05-26,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Stephany Vieira,682.430.791-22,46,1977-05-22,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enzo Barros,794.105.632-16,67,1957-01-13,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caroline Peixoto,036.519.782-30,66,1957-11-02,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Vitória Novaes,804.951.672-58,39,1984-08-08,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Bruna Moura,240.561.398-06,94,1930-02-13,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Peixoto,501.274.968-58,61,1962-04-07,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Anthony Barbosa,749.318.650-20,20,2004-03-18,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alexandre Jesus,269.471.530-34,69,1955-03-01,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcos Vinicius Campos,421.936.780-22,45,1978-11-19,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Miguel Moura,371.528.490-05,129,1894-07-21,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Júlia Cardoso,096.825.473-00,106,1917-10-02,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Stella Rodrigues,870.629.354-92,126,1897-10-11,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Rebeca Da Rosa,640.731.289-22,11,2013-01-01,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Henrique Monteiro,378.529.164-73,6,2018-03-09,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Beatriz Teixeira,243.675.018-17,108,1916-03-14,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Da Rosa,316.092.874-87,5,2018-08-23,RIO GRANDE DO NORTE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Melissa Dias,170.842.953-05,10,2014-02-21,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Beatriz Nunes,483.651.072-44,129,1894-05-24,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Raquel Campos,213.869.074-13,124,1899-08-19,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alícia Nascimento,578.310.692-59,111,1913-03-27,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Vieira,495.821.760-67,119,1905-03-20,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Igor Ramos,695.108.723-77,6,2017-06-29,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alice Cardoso,123.467.985-09,4,2019-10-14,BAHIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Julia Das Neves,201.495.378-32,122,1901-06-30,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Kamilly Rezende,470.598.623-74,140,1883-06-04,MINAS GERAIS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Freitas,205.941.738-41,16,2008-03-03,AMAZONAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ana Lívia Da Paz,347.890.162-69,17,2006-09-01,DISTRITO FEDERAL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Daniel Cavalcanti,609.138.254-33,6,2018-01-09,MARANHÃO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Pedro Cavalcanti,863.591.470-84,1,2022-12-20,MATO GROSSO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+João Melo,053.946.781-20,5225,,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eloah Viana,694.108.237-22,8890,,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Catarina Vieira,631.847.925-28,6850,,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dra. Emanuelly Da Luz,549.076.831-20,-398,,AMAPÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Júlia Araújo,324.091.587-14,4068,,PARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Enrico Aragão,496.017.253-34,2841,,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Sr. Bruno Pires,428.176.095-49,-283,,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Daniela Freitas,786.951.432-28,-620,,RONDÔNIA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Samuel Caldeira,801.726.935-86,3324,,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,930.674.852-38,38,1985-10-14,ALAGOAS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,146.597.038-00,93,1930-08-27,MATO GROSSO DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Renan Da Luz,294.105.738-23,74,1949-07-29,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Caroline Costa,401.325.978-88,21,2003-02-20,PERNAMBUCO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Giovanna Farias,241.763.805-35,40,1983-08-14,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maitê Araújo,496.283.175-55,52,1971-07-10,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Lavínia Da Mota,039.485.716-00,21,2003-01-31,RORAIMA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Igor Cardoso,345.061.892-05,49,1975-01-25,PARAÍBA,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Maria Julia Campos,018.639.472-13,98,1925-08-08,TOCANTINS,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Marcos Vinicius Das Neves,617.948.250-02,86,1938-03-23,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Isabel Barbosa,986.027.415-02,26,1997-12-17,CEARÁ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Ryan Gomes,861.029.453-60,57,1966-05-17,ACRE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Breno Duarte,463.105.289-98,66,1957-10-07,RIO DE JANEIRO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Eloah Peixoto,064.917.253-16,79,1944-05-23,SERGIPE,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luiza Sales,726.431.850-80,55,1968-05-01,RIO GRANDE DO SUL,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Dr. Alexandre Sales,427.398.061-40,87,1936-06-05,SÃO PAULO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Alícia Campos,162.790.485-94,49,1975-03-20,PIAUÍ,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>
+Luigi Porto,826.509.374-83,43,1980-08-18,ESPÍRITO SANTO,<bound method StringMethods.lower of <pandas.core.strings.accessor.StringMethods object at 0x000001BE6DC26710>>

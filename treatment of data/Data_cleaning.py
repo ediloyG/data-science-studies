@@ -42,4 +42,19 @@ df['data_corrigida'] = pd.to_datetime(df['data'], format='%d/%m/%Y', errors = 'c
 
 # Tratar valores duplicados
 
-pri
+print('Qtd de reistros atuais ', df.shape[0])
+df.drop_duplicates()
+df.drop_duplicates(subset='cpf', inplace=True) # remove os registros duplicados com base no campo cpf
+print('Qtd registros removendo as duplicadas:', len(df))
+
+print('Dados Limpos:\n',df)
+
+# savar os dados tratados
+
+df['data'] = df['data_corrigida'] # substitui a coluna data pela coluna data_corrigida
+df['idade'] = df['idade_corrigida'] # substitui a coluna idade pela coluna idade_corrigida
+
+df_salvar = df[['nome', 'cpf', 'idade', 'data', 'estado', 'endereco']] # seleciona as colunas que serão salvas
+df_salvar.to_csv('clientes_tratados.csv', index=False) # salva o DataFrame em um arquivo CSV
+
+print('Novo dataframe : \n',pd.read_csv('clientes_tratados.csv')) # exibe o novo DataFrame
