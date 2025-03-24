@@ -10,7 +10,7 @@ df.drop(2, axis=0, inplace=True) # remove a linha 2,
 # normaliza campos de texto
 
 df['nome'] = df['nome'].str.title() # normaliza o campo nome para a primeira letra maiúscula
-df['endereco'] = df['endereco'].str.lower # normaliza o campo endereco para letras minúsculas
+df['endereco'] = df['endereco'].str.lower() # normaliza o campo endereco para letras minúsculas
 df['estado'] = df['estado'].str.upper() # normaliza o campo estado para letras maiúsculas 
 
 # Converter tipo de dados
@@ -33,8 +33,9 @@ print('Qtd de registros nulos com dropna4:', df_dropna4.isnull().sum()) # exibe 
 print('Qtd de registros nulos com CPF:', df.isnull().sum()) # exibe a quantidade de valores nulos
 
 df.fillna({'estado':'Desconhecido'}, inplace=True) # preenche os valores nulos do campo estado com 'Desconhecido'
-df['enderco'] = df['endereco'].fillna('não informado') # preenche os valores nulos do campo endereco com 'não informado'
+df['endereco'] = df['endereco'].fillna('não informado') # preenche os valores nulos do campo endereco com 'não informado'
 df['idade_corrigida'] = df['idade'].fillna(df['idade'].mean()) # preenche os valores nulos do campo idade
+
 
 # Trata formatado de dados
 
