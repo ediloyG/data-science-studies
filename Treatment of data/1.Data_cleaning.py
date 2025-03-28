@@ -56,6 +56,6 @@ df['data'] = df['data_corrigida'] # substitui a coluna data pela coluna data_cor
 df['idade'] = df['idade_corrigida'] # substitui a coluna idade pela coluna idade_corrigida
 
 df_salvar = df[['nome', 'cpf', 'idade', 'data', 'estado', 'endereco']] # seleciona as colunas que serão salvas
-df_salvar.to_csv('clientes_tratados.csv', index=False) # salva o DataFrame em um arquivo CSV
+df_salvar.to_csv('Data_clean.csv', index=False) # salva o DataFrame em um arquivo CSV
 
-print('Novo dataframe : \n',pd.read_csv('clientes_tratados.csv')) # exibe o novo DataFrame
+print('Novo dataframe : \n',pd.read_csv('Data_clean.csv')) # exibe o novo DataFrame

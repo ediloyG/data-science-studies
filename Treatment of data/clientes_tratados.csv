@@ -3,13 +3,13 @@ cpf,idade,endereco,bairro,estado
 ..***.***46,41.0,"recanto moraes, 7",ernesto nascimento,PB
 ..***.***43,78.0,"residencial de pereira, 20",jatobá,AL
 ..***.***30,55.0,"parque almeida, 66",vila suzana segunda seção,SE
-..***.***21,69.0,"rodovia de pereira, 51",estrela,BA
+..***.***21,70.0,"rodovia de pereira, 51",estrela,BA
 ..***.***20,71.0,esplanada lavínia ramos,são francisco,SP
 ..***.***80,42.0,"praça cavalcanti, 65",conjunto celso machado,RO
 ..***.***83,32.0,"esplanada monteiro, 88",conjunto paulo vi,GO
 ..***.***84,51.0,"ladeira monteiro, 57",vila primeiro de maio,CE
 ..***.***50,53.0,"recanto luiz miguel jesus, 35",vila aeroporto jaraguá,PB
-..***.***01,90.0,"ladeira de porto, 38",nova america,TO
+..***.***01,91.0,"ladeira de porto, 38",nova america,TO
 ..***.***78,24.0,"via de jesus, 57",vila da amizade,PB
 ..***.***19,56.0,"lago castro, 94",mariano de abreu,RJ
 ..***.***60,85.0,"setor isadora da rosa, 583",chácara leonina,RR
@@ -18,7 +18,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***86,78.0,"rodovia aragão, 245",conjunto lagoa,MG
 ..***.***20,71.0,"alameda de lima, 65",boa esperança,PE
 ..***.***77,64.0,"trecho lucas sales, 24",dom bosco,RO
-..***.***41,55.0,"passarela igor novaes, 89",pompéia,SE
+..***.***41,56.0,"passarela igor novaes, 89",pompéia,SE
 ..***.***57,83.0,"sítio luna carvalho, 98",novo santa cecilia,AM
 ..***.***25,75.0,"esplanada de castro, 4",vila nova cachoeirinha 1ª seção,MT
 ..***.***33,36.0,"estrada de aragão, 1",vila barragem santa lúcia,AC
@@ -26,7 +26,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***57,80.0,"travessa vinicius da mata, 52",alta tensão 1ª seção,CE
 ..***.***32,64.0,largo vieira,milionario,DF
 ..***.***69,58.0,"área lucas gabriel silveira, 51",anchieta,PE
-..***.***05,61.0,"jardim isabelly gomes, 23",nossa senhora de fátima,ES
+..***.***05,62.0,"jardim isabelly gomes, 23",nossa senhora de fátima,ES
 ..***.***34,97.0,distrito de silveira,dona clara,AM
 ..***.***65,65.0,travessa ana júlia da rocha,miramar,TO
 ..***.***26,40.0,"avenida milena pires, 360",vila rica,AP
@@ -40,7 +40,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***25,33.0,"recanto de da conceição, 1",paraíso,AM
 ..***.***85,63.0,"setor de azevedo, 375",castanheira,AL
 ..***.***04,56.0,"ladeira pietra cunha, 13",vista alegre,PA
-..***.***76,39.0,"vereda davi lucca barbosa, 35",estrela do oriente,GO
+..***.***76,40.0,"vereda davi lucca barbosa, 35",estrela do oriente,GO
 ..***.***92,97.0,"rodovia ana júlia araújo, 68",vila real 2ª seção,PE
 ..***.***85,25.0,"distrito de barros, 41",suzana,RJ
 ..***.***48,61.0,"feira campos, 17",cruzeiro,DF
@@ -49,7 +49,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***96,89.0,"residencial ian da paz, 6",padre eustáquio,PR
 ..***.***39,64.0,"ladeira de da paz, 98",jardim dos comerciarios,PE
 ..***.***00,46.0,"ladeira pereira, 21",buraco quente,BA
-..***.***14,77.0,"área barros, 46",salgado filho,BA
+..***.***14,78.0,"área barros, 46",salgado filho,BA
 ..***.***52,36.0,"vereda luiz felipe costa, 70",minaslandia,DF
 ..***.***50,99.0,"vila sales, 97",paquetá,ES
 ..***.***91,26.0,"favela alana ribeiro, 318",casa branca,MS
@@ -119,7 +119,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***03,61.0,"jardim de nascimento, 7",engenho nogueira,RS
 ..***.***47,77.0,"quadra de da cruz, 42",vila jardim montanhes,PE
 ..***.***13,49.0,"conjunto de da cruz, 1",mariano de abreu,RJ
-..***.***40,98.0,"colônia francisco campos, 7",vila betânia,SC
+..***.***40,99.0,"colônia francisco campos, 7",vila betânia,SC
 ..***.***20,72.0,largo de barbosa,vila nova gameleira 1ª seção,AL
 ..***.***94,58.0,aeroporto rezende,santo antônio,SP
 ..***.***32,61.0,"campo de pinto, 72",santana do cafezal,PI
@@ -141,7 +141,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***56,78.0,"condomínio campos, 38",dom bosco,SP
 ..***.***01,29.0,"estação milena silva, 549",bairro das indústrias ii,PE
 ..***.***30,76.0,"feira alice ramos, 3",são joão batista,PE
-..***.***51,65.0,"passarela nogueira, 8",castelo,PI
+..***.***51,66.0,"passarela nogueira, 8",castelo,PI
 ..***.***91,97.0,"campo campos, 82",são pedro,MA
 ..***.***73,20.0,"jardim beatriz farias, 11",acaba mundo,AL
 ..***.***34,97.0,lagoa cavalcanti,savassi,PE
@@ -151,11 +151,11 @@ cpf,idade,endereco,bairro,estado
 ..***.***85,76.0,"esplanada de moura, 95",boa viagem,MA
 ..***.***90,69.0,"viaduto de peixoto, 16",inconfidência,CE
 ..***.***98,50.0,"condomínio leandro da mota, 20",jatobá,TO
-..***.***04,41.0,trevo carvalho,vila paraíso,RN
+..***.***04,42.0,trevo carvalho,vila paraíso,RN
 ..***.***91,91.0,morro de duarte,pindorama,RS
 ..***.***56,43.0,"praia ana carolina correia, 11",santa sofia,RO
 ..***.***75,74.0,"rodovia de fogaça, 96",lajedo,RS
-..***.***01,99.0,"rua duarte, 85",vila real 1ª seção,AC
+..***.***01,100.0,"rua duarte, 85",vila real 1ª seção,AC
 ..***.***11,70.0,"sítio mariana almeida, 86",carlos prates,PR
 ..***.***31,49.0,"aeroporto da paz, 54",vila são dimas,PR
 ..***.***34,93.0,"praia nascimento, 541",senhor dos passos,PA
@@ -169,12 +169,12 @@ cpf,idade,endereco,bairro,estado
 ..***.***65,63.0,viaduto caldeira,vila nova paraíso,PE
 ..***.***52,48.0,"sítio aragão, 73",aguas claras,RJ
 ..***.***57,20.0,área gabriela nascimento,ermelinda,RR
-..***.***98,28.0,"estrada agatha correia, 79",xodo-marize,TO
+..***.***98,29.0,"estrada agatha correia, 79",xodo-marize,TO
 ..***.***01,27.0,"pátio ribeiro, 33",vila oeste,MS
 ..***.***03,62.0,"residencial rebeca da paz, 43",santa inês,SC
 ..***.***19,63.0,"aeroporto moura, 81",salgado filho,SP
 ..***.***50,44.0,"parque mariane araújo, 1",flamengo,RO
-..***.***77,24.0,"estrada de carvalho, 309",funcionários,DF
+..***.***77,25.0,"estrada de carvalho, 309",funcionários,DF
 ..***.***77,77.0,"via da cunha, 11",sport club,TO
 ..***.***68,30.0,"rodovia agatha cavalcanti, 27",santo antônio,AP
 ..***.***40,87.0,praça raul pires,maria virgínia,TO
@@ -209,7 +209,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***41,32.0,alameda fernandes,são salvador,AM
 ..***.***86,31.0,"estrada de castro, 671",trevo,PI
 ..***.***04,53.0,"trecho calebe ferreira, 902",funcionários,AL
-..***.***98,49.0,"chácara joão gabriel correia, 983",vila batik,ES
+..***.***98,50.0,"chácara joão gabriel correia, 983",vila batik,ES
 ..***.***33,47.0,"lago maria cecília dias, 93",marçola,MG
 ..***.***70,20.0,via de santos,delta,DF
 ..***.***52,19.0,"viela mariana ferreira, 867",cidade jardim taquaril,AL
@@ -222,18 +222,18 @@ cpf,idade,endereco,bairro,estado
 ..***.***66,65.0,"parque thomas nogueira, 74",outro,AM
 ..***.***23,27.0,"viela de mendes, 45",jardim leblon,AM
 ..***.***24,84.0,"loteamento barbosa, 28",vila madre gertrudes 2ª seção,RO
-..***.***04,44.0,"trevo barros, 87",chácara leonina,PR
+..***.***04,45.0,"trevo barros, 87",chácara leonina,PR
 ..***.***29,20.0,"lagoa isabella viana, 20",zilah sposito,PR
 ..***.***02,25.0,"fazenda rezende, 619",vila da paz,PI
 ..***.***33,49.0,praça souza,santa inês,SC
-..***.***39,31.0,"praça almeida, 81",são bento,MT
+..***.***39,32.0,"praça almeida, 81",são bento,MT
 ..***.***59,39.0,"vila martins, 7",casa branca,PA
-..***.***02,69.0,"passarela de pires, 6",olhos d'água,MS
+..***.***02,70.0,"passarela de pires, 6",olhos d'água,MS
 ..***.***60,89.0,"aeroporto lavínia porto, 29",barreiro,RR
 ..***.***60,72.0,"parque de aragão, 76",cachoeirinha,ES
 ..***.***00,44.0,"vale ramos, 60",vila santo antônio,RR
 ..***.***48,77.0,loteamento nascimento,engenho nogueira,PA
-..***.***87,78.0,"esplanada joão guilherme barbosa, 39",barão homem de melo 2ª seção,AL
+..***.***87,79.0,"esplanada joão guilherme barbosa, 39",barão homem de melo 2ª seção,AL
 ..***.***28,32.0,parque nascimento,vila minaslandia,AL
 ..***.***88,77.0,"largo alves, 654",vera cruz,MS
 ..***.***38,52.0,"trevo de azevedo, 36",vila barragem santa lúcia,PR
@@ -253,21 +253,21 @@ cpf,idade,endereco,bairro,estado
 ..***.***80,52.0,"rodovia de da luz, 710",saudade,RO
 ..***.***57,27.0,residencial beatriz lopes,ermelinda,RN
 ..***.***03,69.0,"aeroporto de ferreira, 9",senhor dos passos,AC
-..***.***25,31.0,"chácara da luz, 27",bonfim,SP
+..***.***25,32.0,"chácara da luz, 27",bonfim,SP
 ..***.***06,48.0,núcleo cardoso,barreiro,TO
 ..***.***51,44.0,"residencial de ribeiro, 11",vila santa rosa,GO
 ..***.***61,33.0,"aeroporto de campos, 63",são gabriel,PB
-..***.***70,32.0,loteamento de rodrigues,santa cecilia,GO
+..***.***70,33.0,loteamento de rodrigues,santa cecilia,GO
 ..***.***66,53.0,"vale pinto, 70",esplanada,PI
 ..***.***06,67.0,"vale costela, 5",parque são josé,SP
-..***.***90,81.0,"jardim de barros, 111",caiçara - adelaide,TO
+..***.***90,82.0,"jardim de barros, 111",caiçara - adelaide,TO
 ..***.***01,77.0,"pátio da rocha, 793",vila rica,ES
 ..***.***47,95.0,"setor samuel porto, 99",bairro das indústrias ii,AM
 ..***.***70,66.0,"via diego lima, 60",distrito industrial do jatoba,AP
 ..***.***83,76.0,"área joão lucas lima, 997",são benedito,RO
 ..***.***00,47.0,"praia vitor gabriel cunha, 89",concórdia,SC
 ..***.***22,59.0,viaduto juliana nogueira,trevo,BA
-..***.***68,49.0,"passarela moura, 85",vila rica,DF
+..***.***68,50.0,"passarela moura, 85",vila rica,DF
 ..***.***00,31.0,"condomínio de sales, 62",são bernardo,PB
 ..***.***93,34.0,"estação de ribeiro, 893",zilah sposito,SP
 ..***.***53,83.0,Endereço inválido,Desconhecido,Estado inválido
@@ -277,7 +277,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***23,85.0,morro lavínia almeida,esperança,AP
 ..***.***09,98.0,"travessa oliveira, 28",minas brasil,MA
 ..***.***64,89.0,"conjunto de souza, 842",petropolis,TO
-..***.***90,46.0,"quadra de fogaça, 57",vila nova gameleira 3ª seção,PE
+..***.***90,47.0,"quadra de fogaça, 57",vila nova gameleira 3ª seção,PE
 ..***.***53,71.0,"estrada de carvalho, 52",conjunto jardim filadélfia,GO
 ..***.***06,31.0,"travessa melo, 5",biquinhas,ES
 ..***.***74,41.0,"largo de rodrigues, 19",campo alegre,DF
@@ -289,10 +289,10 @@ cpf,idade,endereco,bairro,estado
 ..***.***17,73.0,"loteamento de viana, 65",conjunto novo dom bosco,PI
 ..***.***02,90.0,"feira gustavo nascimento, 911",vila calafate,RS
 ..***.***40,50.0,vereda cunha,jardim do vale,ES
-..***.***08,49.0,"aeroporto augusto das neves, 847",maria helena,TO
+..***.***08,50.0,"aeroporto augusto das neves, 847",maria helena,TO
 ..***.***02,100.0,"feira fogaça, 914",vila dos anjos,PI
 ..***.***49,56.0,"estação moraes, 13",carmo,MG
-..***.***94,92.0,"feira maria julia costela, 21",mariano de abreu,MG
+..***.***94,93.0,"feira maria julia costela, 21",mariano de abreu,MG
 ..***.***15,68.0,"loteamento de lima, 16",conjunto providencia,SE
 ..***.***55,65.0,"rodovia pires, 57",vila de sá,SP
 ..***.***03,96.0,pátio carvalho,vila primeiro de maio,AP
@@ -301,7 +301,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***50,35.0,"campo de campos, 83",vila tirol,RN
 ..***.***51,54.0,"passarela oliveira, 48",santa monica,RO
 ..***.***65,81.0,"via letícia nunes, 280",monsenhor messias,AL
-..***.***13,44.0,"travessa ribeiro, 92",pindorama,GO
+..***.***13,45.0,"travessa ribeiro, 92",pindorama,GO
 ..***.***48,52.0,"conjunto eduardo da paz, 2",dom joaquim,AP
 ..***.***08,39.0,"feira clara lima, 5",vila independencia 3ª seção,MA
 ..***.***86,79.0,"núcleo de rocha, 9",sport club,SP
@@ -315,8 +315,8 @@ cpf,idade,endereco,bairro,estado
 ..***.***33,53.0,"esplanada souza, 437",álvaro camargos,MG
 ..***.***53,69.0,"favela de carvalho, 28",confisco,RS
 ..***.***30,74.0,"praça caroline almeida, 19",conjunto bonsucesso,DF
-..***.***95,73.0,"lagoa de fogaça, 92",pantanal,MG
-..***.***34,69.0,"vale ana julia porto, 19",alto barroca,MG
+..***.***95,74.0,"lagoa de fogaça, 92",pantanal,MG
+..***.***34,70.0,"vale ana julia porto, 19",alto barroca,MG
 ..***.***89,95.0,"residencial de cunha, 20",santana do cafezal,PB
 ..***.***80,68.0,"travessa lucca carvalho, 38",aeroporto,RO
 ..***.***12,55.0,aeroporto ana clara oliveira,indaiá,AM
@@ -324,16 +324,16 @@ cpf,idade,endereco,bairro,estado
 ..***.***90,58.0,"favela de azevedo, 62",lindéia,MA
 ..***.***07,80.0,"loteamento ferreira, 493",lagoa,PI
 ..***.***30,26.0,"campo vinicius campos, 2",conjunto são francisco de assis,MG
-..***.***00,46.0,"condomínio bruna mendes, 55",pongelupe,CE
+..***.***00,47.0,"condomínio bruna mendes, 55",pongelupe,CE
 ..***.***03,33.0,"loteamento freitas, 30",primeiro de maio,SP
 ..***.***97,23.0,"trecho de freitas, 8",vila piratininga venda nova,TO
 ..***.***92,66.0,"alameda de da rosa, 2",são salvador,PE
 ..***.***20,100.0,"largo juliana barbosa, 182",concórdia,RN
 ..***.***28,50.0,viela de da paz,minaslandia,PE
-..***.***73,37.0,"passarela joão lucas nogueira, 753",são pedro,PE
+..***.***73,38.0,"passarela joão lucas nogueira, 753",são pedro,PE
 ..***.***60,82.0,"campo vinicius silva, 27",lagoinha,AC
 ..***.***55,26.0,"viaduto de castro, 65",jardim vitoria,RR
-..***.***73,52.0,"estrada de rocha, 305",lourdes,PE
+..***.***73,53.0,"estrada de rocha, 305",lourdes,PE
 ..***.***49,97.0,"pátio lopes, 1",varzea da palma,AM
 ..***.***79,88.0,"recanto gustavo pereira, 77",santo antônio,PE
 ..***.***60,33.0,"largo kevin barbosa, 2",vila da ária,MG
@@ -341,7 +341,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***87,51.0,"trecho igor barros, 77",mariano de abreu,ES
 ..***.***22,95.0,alameda de pinto,pousada santo antonio,RS
 ..***.***90,65.0,"trevo rezende, 51",bela vitoria,MG
-..***.***07,55.0,"estação de freitas, 32",corumbiara,RR
+..***.***07,56.0,"estação de freitas, 32",corumbiara,RR
 ..***.***86,31.0,distrito rocha,luxemburgo,CE
 ..***.***89,29.0,"recanto silveira, 47",olhos d'água,ES
 ..***.***78,72.0,"residencial de pires, 28",laranjeiras,RS
@@ -353,9 +353,9 @@ cpf,idade,endereco,bairro,estado
 ..***.***02,32.0,"viaduto jesus, 11",conjunto jatoba,DF
 ..***.***14,55.0,"alameda anthony fogaça, 11",mantiqueira,RS
 ..***.***80,31.0,"quadra de fogaça, 28",pantanal,PI
-..***.***15,45.0,fazenda caldeira,satelite,AM
+..***.***15,46.0,fazenda caldeira,satelite,AM
 ..***.***39,56.0,vila alves,jardim atlântico,DF
-..***.***09,76.0,"feira enrico nogueira, 1",itaipu,PB
+..***.***09,77.0,"feira enrico nogueira, 1",itaipu,PB
 ..***.***64,94.0,"rua pedro miguel da luz, 95",nossa senhora do rosário,PA
 ..***.***32,63.0,vila de da mata,cônego pinheiro 2ª seção,CE
 ..***.***44,64.0,"sítio de cardoso, 88",acaiaca,RS
@@ -365,13 +365,13 @@ cpf,idade,endereco,bairro,estado
 ..***.***62,24.0,"área de barros, 86",boa esperança,RN
 ..***.***51,77.0,"alameda gustavo henrique gonçalves, 50",beija flor,RJ
 ..***.***84,23.0,"jardim de lopes, 7",planalto,AM
-..***.***13,44.0,"alameda de da mota, 94",vila paquetá,CE
+..***.***13,45.0,"alameda de da mota, 94",vila paquetá,CE
 ..***.***82,86.0,"lagoa milena ramos, 4",caiçara - adelaide,AM
 ..***.***40,48.0,"setor da cunha, 39",jardim montanhês,RJ
 ..***.***71,27.0,"área peixoto, 32",flavio de oliveira,SE
-..***.***73,58.0,"vereda matheus azevedo, 2",serrano,AC
+..***.***73,59.0,"vereda matheus azevedo, 2",serrano,AC
 ..***.***87,85.0,"praia raul campos, 12",conjunto providencia,CE
-..***.***87,51.0,"jardim enzo da paz, 47",vila ouro minas,PR
+..***.***87,52.0,"jardim enzo da paz, 47",vila ouro minas,PR
 ..***.***92,44.0,"vale oliveira, 22",nova suíça,RS
 ..***.***33,52.0,"conjunto maria vitória da cunha, 59",serra do curral,MG
 ..***.***22,57.0,"alameda maria fernanda castro, 87",maravilha,PI
@@ -383,11 +383,11 @@ cpf,idade,endereco,bairro,estado
 ..***.***91,21.0,"recanto alves, 105",saudade,RR
 ..***.***03,56.0,"lago jesus, 71",frei leopoldo,MA
 ..***.***05,52.0,esplanada cauã teixeira,jardim américa,SP
-..***.***06,54.0,"praia heitor castro, 6",jardim leblon,MS
+..***.***06,55.0,"praia heitor castro, 6",jardim leblon,MS
 ..***.***16,63.0,"viela benjamin campos, 1",pompéia,CE
 ..***.***50,48.0,"núcleo castro, 7",maria helena,BA
 ..***.***12,56.0,"estrada lucas gabriel caldeira, 856",joão pinheiro,MG
-..***.***90,34.0,"trecho freitas, 427",alto dos pinheiros,AP
+..***.***90,35.0,"trecho freitas, 427",alto dos pinheiros,AP
 ..***.***15,40.0,via ribeiro,flavio de oliveira,PR
 ..***.***85,48.0,"lago silva, 75",vila oeste,AC
 ..***.***73,87.0,"travessa duarte, 59",brasil industrial,RO
@@ -397,7 +397,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***17,53.0,"viaduto de moreira, 1",vera cruz,DF
 ..***.***99,22.0,"núcleo luiz gustavo costela, 99",juliana,SE
 ..***.***38,53.0,via araújo,são cristóvão,SE
-..***.***93,97.0,lago de cardoso,santa cecilia,MG
+..***.***93,98.0,lago de cardoso,santa cecilia,MG
 ..***.***43,49.0,viaduto de cardoso,inconfidência,PA
 ..***.***71,21.0,"quadra de da mata, 49",ouro minas,MT
 ..***.***15,92.0,"núcleo araújo, 155",lindéia,PA
@@ -408,22 +408,22 @@ cpf,idade,endereco,bairro,estado
 ..***.***75,100.0,"residencial alana dias, 51",vitoria,TO
 ..***.***73,24.0,"rua evelyn da cunha, 2",alta tensão 1ª seção,ES
 ..***.***00,57.0,"fazenda de duarte, 99",são sebastião,AC
-..***.***52,59.0,"trevo de da costa, 7",esplanada,AC
+..***.***52,60.0,"trevo de da costa, 7",esplanada,AC
 ..***.***05,36.0,"vale erick moreira, 48",vila nova cachoeirinha 2ª seção,AP
 ..***.***40,61.0,"parque de moraes, 36",gutierrez,TO
 ..***.***87,82.0,"passarela lima, 87",jatobá,RJ
 ..***.***57,75.0,pátio vitor gabriel rocha,são joão batista,SC
-..***.***00,35.0,"rodovia agatha lopes, 7",vila são gabriel,DF
+..***.***00,36.0,"rodovia agatha lopes, 7",vila são gabriel,DF
 ..***.***30,81.0,"aeroporto de ferreira, 2",santa helena,CE
 ..***.***49,100.0,"trevo aragão, 535",salgado filho,GO
 ..***.***22,60.0,"avenida ferreira, 7",antonio ribeiro de abreu 1ª seção,DF
 ..***.***71,39.0,viaduto marcelo ramos,universo,SP
-..***.***08,25.0,"núcleo silva, 7",jaraguá,CE
-..***.***05,45.0,"rodovia de freitas, 782",parque são josé,SC
+..***.***08,26.0,"núcleo silva, 7",jaraguá,CE
+..***.***05,46.0,"rodovia de freitas, 782",parque são josé,SC
 ..***.***56,35.0,"quadra silveira, 76",joão paulo ii,MG
 ..***.***83,37.0,"conjunto da rosa, 22",pindura saia,MS
-..***.***49,87.0,parque rodrigues,vila da amizade,RO
-..***.***46,45.0,"lagoa porto, 44",unidas,GO
+..***.***49,88.0,parque rodrigues,vila da amizade,RO
+..***.***46,46.0,"lagoa porto, 44",unidas,GO
 ..***.***85,54.0,"vila sales, 913",bela vitoria,SP
 ..***.***84,56.0,"setor peixoto, 47",palmeiras,SE
 ..***.***87,80.0,"parque luiz gustavo da conceição, 34",santa margarida,RS
@@ -432,20 +432,20 @@ cpf,idade,endereco,bairro,estado
 ..***.***53,60.0,"feira otávio pereira, 93",piraja,RR
 ..***.***13,46.0,"trecho joão gabriel pires, 64",nova pampulha,RS
 ..***.***70,87.0,"praça de ribeiro, 9",santa inês,SP
-..***.***60,75.0,passarela de caldeira,vila sesc,AP
+..***.***60,76.0,passarela de caldeira,vila sesc,AP
 ..***.***00,31.0,estrada danilo monteiro,conjunto califórnia ii,BA
 ..***.***47,41.0,"rodovia sophia rodrigues, 88",vila independencia 2ª seção,RR
-..***.***00,99.0,lagoa souza,copacabana,ES
+..***.***00,100.0,lagoa souza,copacabana,ES
 ..***.***60,24.0,"área ana sophia pereira, 32",minas caixa,TO
 ..***.***73,29.0,"viaduto de sales, 92",buraco quente,AL
 ..***.***19,90.0,"núcleo monteiro, 504",são bernardo,TO
 ..***.***67,38.0,núcleo ribeiro,vila nova cachoeirinha 1ª seção,PE
-..***.***90,19.0,"praça ana júlia rezende, 38",vila coqueiral,PA
+..***.***90,20.0,"praça ana júlia rezende, 38",vila coqueiral,PA
 ..***.***47,41.0,"avenida bruna rodrigues, 724",diamante,ES
 ..***.***19,45.0,"pátio rocha, 75",havaí,AC
 ..***.***24,40.0,"viaduto enzo gabriel moreira, 72",vila real 2ª seção,CE
 ..***.***50,20.0,"residencial ribeiro, 60",flamengo,RO
-..***.***05,49.0,"travessa cardoso, 95",alta tensão 1ª seção,MT
+..***.***05,50.0,"travessa cardoso, 95",alta tensão 1ª seção,MT
 ..***.***71,24.0,quadra lorenzo pires,vila olhos d'água,AC
 ..***.***56,86.0,campo de souza,vila jardim são josé,RR
 ..***.***97,87.0,"via de da paz, 5",dona clara,AL
@@ -454,8 +454,8 @@ cpf,idade,endereco,bairro,estado
 ..***.***60,71.0,"passarela de nascimento, 916",joão paulo ii,AL
 ..***.***97,72.0,"avenida de almeida, 78",vila atila de paiva,AL
 ..***.***65,24.0,avenida heloísa costa,cabana do pai tomás,AC
-..***.***84,85.0,"núcleo farias, 97",lourdes,RR
-..***.***53,90.0,"favela de lopes, 473",lagoinha leblon,PR
+..***.***84,86.0,"núcleo farias, 97",lourdes,RR
+..***.***53,91.0,"favela de lopes, 473",lagoinha leblon,PR
 ..***.***80,27.0,"quadra mariana costela, 87",grajaú,BA
 ..***.***92,89.0,"rua cardoso, 76",olhos d'água,MA
 ..***.***70,57.0,"pátio paulo da rosa, 93",belvedere,TO
@@ -467,13 +467,13 @@ cpf,idade,endereco,bairro,estado
 ..***.***31,55.0,"viaduto freitas, 622",jardim atlântico,PE
 ..***.***55,74.0,"distrito thomas pires, 77",bairro das indústrias ii,MT
 ..***.***05,94.0,estrada melo,vila independencia 3ª seção,AM
-..***.***96,64.0,"loteamento dias, 21",camponesa 1ª seção,RN
-..***.***44,75.0,"colônia vieira, 6",milionario,SE
-..***.***74,34.0,"aeroporto vinicius rezende, 18",conjunto são francisco de assis,PR
+..***.***96,65.0,"loteamento dias, 21",camponesa 1ª seção,RN
+..***.***44,76.0,"colônia vieira, 6",milionario,SE
+..***.***74,35.0,"aeroporto vinicius rezende, 18",conjunto são francisco de assis,PR
 ..***.***75,94.0,"praça almeida, 95",vila novo são lucas,AP
 ..***.***70,27.0,"trecho kevin castro, 70",são geraldo,PR
 ..***.***14,97.0,"passarela kamilly moreira, 704",cardoso,SP
-..***.***73,88.0,"vereda jesus, 7",esplanada,SP
+..***.***73,89.0,"vereda jesus, 7",esplanada,SP
 ..***.***37,59.0,"viaduto de martins, 24",vila antena,RO
 ..***.***82,74.0,"largo cardoso, 23",vila nova gameleira 2ª seção,AL
 ..***.***38,75.0,"vila heloísa barbosa, 666",conjunto são francisco de assis,RN
@@ -511,11 +511,11 @@ cpf,idade,endereco,bairro,estado
 ..***.***30,54.0,setor de dias,são benedito,RS
 ..***.***40,97.0,"campo da mata, 42",morro dos macacos,MG
 ..***.***19,65.0,"parque dias, 687",paulo vi,PR
-..***.***75,99.0,"colônia de viana, 6",pongelupe,SE
+..***.***75,100.0,"colônia de viana, 6",pongelupe,SE
 ..***.***61,77.0,via da mata,bernadete,RO
 ..***.***80,39.0,"praça de duarte, 194",guarani,MT
 ..***.***30,35.0,"campo de moura, 60",primeiro de maio,RN
-..***.***39,73.0,"área duarte, 628",conjunto lagoa,RR
+..***.***39,74.0,"área duarte, 628",conjunto lagoa,RR
 ..***.***70,48.0,"sítio de moura, 13",paraíso,RS
 ..***.***76,22.0,"rua de fogaça, 71",ouro preto,AM
 ..***.***66,88.0,"rua de martins, 9",união,AC
@@ -526,7 +526,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***40,67.0,"praça almeida, 71",capitão eduardo,RJ
 ..***.***89,31.0,"praia costa, 35",jardim leblon,GO
 ..***.***52,38.0,"via luigi peixoto, 61",são gabriel,AP
-..***.***17,44.0,"estrada diogo da mata, 91",vila nova cachoeirinha 3ª seção,PI
+..***.***17,45.0,"estrada diogo da mata, 91",vila nova cachoeirinha 3ª seção,PI
 ..***.***49,99.0,"rua kaique freitas, 8",universo,RR
 ..***.***09,61.0,viela de almeida,união,RN
 ..***.***39,95.0,lagoa joão pedro alves,das industrias i,PB
@@ -557,10 +557,10 @@ cpf,idade,endereco,bairro,estado
 ..***.***70,96.0,"via igor da mata, 81",laranjeiras,ES
 ..***.***50,83.0,"trevo joão pedro araújo, 7",sagrada família,DF
 ..***.***61,63.0,"condomínio da cunha, 4",unidas,PA
-..***.***44,95.0,"parque henrique teixeira, 32",grotinha,RR
+..***.***44,96.0,"parque henrique teixeira, 32",grotinha,RR
 ..***.***66,31.0,"vereda silveira, 8",bom jesus,RR
 ..***.***76,61.0,"avenida de araújo, 28",esplanada,RS
-..***.***44,92.0,"fazenda letícia costela, 6",petropolis,AM
+..***.***44,93.0,"fazenda letícia costela, 6",petropolis,AM
 ..***.***00,40.0,"campo peixoto, 75",independência,SC
 ..***.***92,37.0,"parque eloah costa, 91",são geraldo,RS
 ..***.***08,37.0,"rua de santos, 955",ambrosina,RS
@@ -575,7 +575,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***24,82.0,"residencial novaes, 84",vila da amizade,PI
 ..***.***21,66.0,"praia ian da mota, 383",nova cintra,RO
 ..***.***55,60.0,rodovia emanuel da cruz,nova esperança,PE
-..***.***01,43.0,"ladeira da cruz, 635",coqueiros,BA
+..***.***01,44.0,"ladeira da cruz, 635",coqueiros,BA
 ..***.***55,65.0,"trecho cavalcanti, 3",acaba mundo,PR
 ..***.***09,48.0,"estação rocha, 975",marieta 2ª seção,SC
 ..***.***50,51.0,"vale de cavalcanti, 98",vila havaí,ES
@@ -584,10 +584,10 @@ cpf,idade,endereco,bairro,estado
 ..***.***77,76.0,"rodovia ana beatriz cardoso, 97",etelvina carneiro,PR
 ..***.***49,38.0,"vereda sales, 83",ouro minas,AL
 ..***.***08,28.0,"ladeira clara da cruz, 37",aparecida 7ª seção,PB
-..***.***17,30.0,"setor de costa, 1",nova america,ES
+..***.***17,31.0,"setor de costa, 1",nova america,ES
 ..***.***26,53.0,"avenida castro, 718",santo agostinho,PE
 ..***.***03,41.0,"recanto isabel da conceição, 6",vila madre gertrudes 4ª seção,RS
-..***.***57,47.0,"núcleo de rodrigues, 95",maria virgínia,AM
+..***.***57,48.0,"núcleo de rodrigues, 95",maria virgínia,AM
 ..***.***16,90.0,"setor de barros, 58",vila ouro minas,SP
 ..***.***43,58.0,"praia pietra caldeira, 60",túnel de ibirité,GO
 ..***.***39,,"quadra yasmin caldeira, 4",salgado filho,PE
@@ -600,22 +600,22 @@ cpf,idade,endereco,bairro,estado
 ..***.***32,,"campo gabriela rodrigues, 9",piraja,AC
 ..***.***44,70.0,"via nogueira, 82",andiroba,SE
 ..***.***91,67.0,Endereço inválido,Desconhecido,Estado inválido
-..***.***21,72.0,"trevo nicole da cruz, 7",conjunto providencia,RS
+..***.***21,73.0,"trevo nicole da cruz, 7",conjunto providencia,RS
 ..***.***52,50.0,"campo erick fernandes, 464",são benedito,AC
 ..***.***89,62.0,quadra de martins,nazare,AM
 ..***.***28,80.0,"fazenda de ferreira, 76",conjunto paulo vi,MS
 ..***.***69,87.0,"estrada gabrielly rocha, 634",ouro minas,PA
-..***.***48,68.0,"estação cardoso, 175",barão homem de melo 1ª seção,SC
+..***.***48,69.0,"estação cardoso, 175",barão homem de melo 1ª seção,SC
 ..***.***07,22.0,"estrada duarte, 37",marmiteiros,MS
 ..***.***78,90.0,"praia moreira, 20",são jorge 2ª seção,TO
 ..***.***29,53.0,"largo de da cruz, 431",mangueiras,TO
-..***.***09,41.0,"trevo de moraes, 78",bairro das indústrias ii,TO
+..***.***09,42.0,"trevo de moraes, 78",bairro das indústrias ii,TO
 ..***.***60,34.0,"distrito kaique costa, 17",novo glória,RJ
 ..***.***77,32.0,"condomínio da cunha, 964",conjunto califórnia i,ES
-..***.***06,46.0,"praia de almeida, 38",vila nova gameleira 3ª seção,MG
+..***.***06,47.0,"praia de almeida, 38",vila nova gameleira 3ª seção,MG
 ..***.***83,22.0,"aeroporto santos, 94",ademar maldonado,PI
 ..***.***93,74.0,"alameda de da mata, 18",barroca,MS
-..***.***55,80.0,"aeroporto aragão, 8",guarani,DF
+..***.***55,81.0,"aeroporto aragão, 8",guarani,DF
 ..***.***96,55.0,"vereda daniel gonçalves, 6",bacurau,PB
 ..***.***57,62.0,"conjunto de cunha, 63",estrela,SP
 ..***.***65,21.0,"rodovia de cavalcanti, 47",capitão eduardo,AP
@@ -649,21 +649,21 @@ cpf,idade,endereco,bairro,estado
 ..***.***01,100.0,"favela martins, 7",barão homem de melo 2ª seção,ES
 ..***.***58,30.0,"ladeira barros, 84",xodo-marize,AP
 ..***.***97,40.0,"jardim silveira, 35",dona clara,RR
-..***.***55,46.0,"viaduto evelyn ribeiro, 56",dom silverio,MG
+..***.***55,47.0,"viaduto evelyn ribeiro, 56",dom silverio,MG
 ..***.***47,79.0,"campo de farias, 77",paulo vi,AM
 ..***.***05,45.0,"loteamento alice freitas, 3",santa lúcia,AL
 ..***.***60,20.0,"trecho alícia monteiro, 61",são jorge 3ª seção,AL
 ..***.***40,84.0,"alameda pinto, 59",cinquentenário,MT
 ..***.***03,77.0,"condomínio larissa teixeira, 216",olhos d'água,BA
-..***.***19,77.0,"vale de da mata, 75",bela vitoria,TO
+..***.***19,78.0,"vale de da mata, 75",bela vitoria,TO
 ..***.***10,73.0,trevo beatriz cardoso,prado,AP
 ..***.***44,67.0,"feira souza, 65",santa helena,AL
 ..***.***91,53.0,"fazenda luiza campos, 62",horto,GO
 ..***.***53,74.0,"loteamento de gomes, 86",liberdade,RS
 ..***.***21,28.0,"condomínio marina costela, 29",morro dos macacos,RR
-..***.***35,100.0,"feira letícia nascimento, 5",unidas,MA
+..***.***35,,"feira letícia nascimento, 5",unidas,MA
 ..***.***83,45.0,"aeroporto de ribeiro, 57",coração de jesus,MT
-..***.***77,36.0,"feira moura, 2",das industrias i,PB
+..***.***77,37.0,"feira moura, 2",das industrias i,PB
 ..***.***53,78.0,"favela peixoto, 76",mangueiras,PE
 ..***.***26,21.0,"distrito rezende, 61",jardim américa,MT
 ..***.***44,61.0,"favela caldeira, 98",maria helena,DF
@@ -689,7 +689,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***24,31.0,quadra costa,bonsucesso,MA
 ..***.***85,59.0,"vale rezende, 20",juliana,AL
 ..***.***11,62.0,"sítio nascimento, 64",são lucas,MG
-..***.***07,24.0,"estrada eduardo porto, 85",boa vista,MA
+..***.***07,25.0,"estrada eduardo porto, 85",boa vista,MA
 ..***.***91,86.0,"estação da cruz, 13",primeiro de maio,PI
 ..***.***90,25.0,"distrito clara viana, 41",lajedo,CE
 ..***.***51,66.0,"viela de das neves, 139",novo glória,DF
@@ -709,8 +709,8 @@ cpf,idade,endereco,bairro,estado
 ..***.***66,78.0,"aeroporto melo, 31",conjunto celso machado,AC
 ..***.***26,84.0,"condomínio de lima, 66",mirtes,GO
 ..***.***78,31.0,"pátio davi lucca viana, 6",gameleira,PA
-..***.***08,67.0,"feira gonçalves, 4",vila paquetá,AP
-..***.***16,69.0,núcleo viana,conjunto jatoba,RN
+..***.***08,68.0,"feira gonçalves, 4",vila paquetá,AP
+..***.***16,70.0,núcleo viana,conjunto jatoba,RN
 ..***.***60,27.0,"feira de oliveira, 1",mariquinhas,RN
 ..***.***68,56.0,"campo araújo, 10",tiradentes,GO
 ..***.***07,80.0,lagoa ana sophia oliveira,pedreira padro lopes,RN
@@ -723,28 +723,28 @@ cpf,idade,endereco,bairro,estado
 ..***.***01,78.0,"campo yasmin moreira, 49",funcionários,AP
 ..***.***89,82.0,"avenida lavínia castro, 46",marieta 2ª seção,SP
 ..***.***50,84.0,condomínio levi almeida,vila nova cachoeirinha 3ª seção,AM
-..***.***51,71.0,"viela isis gomes, 43",petropolis,AP
+..***.***51,72.0,"viela isis gomes, 43",petropolis,AP
 ..***.***00,47.0,"jardim luiz felipe duarte, 1",bela vitoria,RR
 ..***.***86,34.0,"jardim almeida, 48",belvedere,MS
 ..***.***59,52.0,"pátio de ribeiro, 16",pindura saia,RJ
 ..***.***01,21.0,"ladeira mariane santos, 7",distrito industrial do jatoba,SE
 ..***.***76,84.0,"vila silveira, 86",gameleira,PB
 ..***.***10,62.0,"ladeira duarte, 35",urca,MT
-..***.***11,58.0,"viaduto de novaes, 952",dom cabral,SP
-..***.***87,58.0,"aeroporto isaac da conceição, 1",vila jardim montanhes,MT
-..***.***92,54.0,"fazenda de porto, 4",santa lúcia,PR
+..***.***11,59.0,"viaduto de novaes, 952",dom cabral,SP
+..***.***87,59.0,"aeroporto isaac da conceição, 1",vila jardim montanhes,MT
+..***.***92,55.0,"fazenda de porto, 4",santa lúcia,PR
 ..***.***25,85.0,"distrito de moraes, 56",alto vera cruz,AP
 ..***.***24,65.0,"jardim novaes, 13",sion,RO
 ..***.***80,69.0,"ladeira de da conceição, 76",venda nova,TO
 ..***.***23,50.0,"passarela de porto, 65",pousada santo antonio,PI
-..***.***16,52.0,"travessa de farias, 9",esplanada,RS
-..***.***79,95.0,"parque da luz, 3",grajaú,RR
+..***.***16,53.0,"travessa de farias, 9",esplanada,RS
+..***.***79,96.0,"parque da luz, 3",grajaú,RR
 ..***.***59,95.0,"parque de silveira, 6",são jorge 3ª seção,MS
-..***.***50,63.0,"campo santos, 714",alto barroca,RJ
+..***.***50,64.0,"campo santos, 714",alto barroca,RJ
 ..***.***64,37.0,"área de moreira, 82",das industrias i,DF
 ..***.***25,32.0,viela kamilly cunha,vista do sol,SP
 ..***.***57,43.0,"campo de da cruz, 22",conjunto são francisco de assis,SC
-..***.***00,78.0,rodovia cunha,das industrias i,MA
+..***.***00,79.0,rodovia cunha,das industrias i,MA
 ..***.***71,66.0,"passarela joão pedro nunes, 6",vila oeste,DF
 ..***.***41,75.0,"estação alves, 8",vila petropolis,PE
 ..***.***57,57.0,"viela da costa, 16",canadá,MA
@@ -760,34 +760,34 @@ cpf,idade,endereco,bairro,estado
 ..***.***30,22.0,"campo emanuelly gonçalves, 51",novo glória,BA
 ..***.***26,98.0,"alameda de carvalho, 150",saudade,RR
 ..***.***77,70.0,"trevo nina pereira, 99",álvaro camargos,CE
-..***.***41,35.0,"morro eduarda farias, 92",aarão reis,AC
+..***.***41,36.0,"morro eduarda farias, 92",aarão reis,AC
 ..***.***03,59.0,"vale davi luiz dias, 709",vila oeste,CE
 ..***.***04,100.0,"favela elisa barbosa, 521",jardim vitoria,SC
 ..***.***83,75.0,"aeroporto laura gonçalves, 7",vila vista alegre,MG
 ..***.***50,32.0,"setor de da luz, 81",são cristóvão,GO
 ..***.***20,100.0,"trevo de moreira, 63",araguaia,PI
-..***.***17,77.0,"ladeira peixoto, 85",são marcos,MA
+..***.***17,78.0,"ladeira peixoto, 85",são marcos,MA
 ..***.***08,36.0,colônia maitê cardoso,copacabana,DF
 ..***.***05,30.0,"praia de campos, 94",candelaria,PR
 ..***.***95,98.0,"área moreira, 8",grajaú,PA
-..***.***10,70.0,jardim de dias,mirtes,CE
+..***.***10,71.0,jardim de dias,mirtes,CE
 ..***.***67,48.0,"viela de gonçalves, 79",vila havaí,SC
 ..***.***49,50.0,"campo de nascimento, 5",serra do curral,SP
 ..***.***92,88.0,"viaduto farias, 15",sagrada família,PR
 ..***.***39,59.0,"jardim cavalcanti, 94",petropolis,BA
-..***.***07,30.0,"lago de lopes, 6",floramar,GO
+..***.***07,31.0,"lago de lopes, 6",floramar,GO
 ..***.***78,34.0,"aeroporto de fogaça, 29",santa sofia,TO
 ..***.***09,37.0,"travessa de da luz, 42",vila nova paraíso,MS
 ..***.***12,34.0,"estação de da costa, 211",pilar,PA
-..***.***07,78.0,"recanto rodrigues, 80",minas caixa,PI
+..***.***07,79.0,"recanto rodrigues, 80",minas caixa,PI
 ..***.***15,67.0,"praia daniel barbosa, 847",silveira,BA
 ..***.***42,79.0,estação miguel rodrigues,coração de jesus,AL
-..***.***17,85.0,"trevo sofia moreira, 67",alta tensão 1ª seção,CE
+..***.***17,86.0,"trevo sofia moreira, 67",alta tensão 1ª seção,CE
 ..***.***31,75.0,"quadra de alves, 729",camponesa 2ª seção,PA
 ..***.***00,99.0,"aeroporto jesus, 2",são francisco,ES
 ..***.***49,81.0,"alameda araújo, 53",piratininga,MS
 ..***.***90,78.0,"viela de sales, 68",nova esperança,TO
-..***.***70,67.0,"morro ryan da luz, 43",vila nova gameleira 2ª seção,PB
+..***.***70,68.0,"morro ryan da luz, 43",vila nova gameleira 2ª seção,PB
 ..***.***78,85.0,área ferreira,jardim montanhês,AP
 ..***.***01,54.0,"conjunto farias, 36",silveira,SE
 ..***.***89,45.0,praia marina da rosa,são jorge 3ª seção,AC
@@ -801,7 +801,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***88,98.0,avenida da luz,vila inestan,AL
 ..***.***89,89.0,"estrada de da rosa, 69",jonas veiga,AP
 ..***.***03,87.0,"morro da rocha, 84",tirol,MT
-..***.***09,22.0,"estrada sabrina freitas, 40",acaba mundo,DF
+..***.***09,23.0,"estrada sabrina freitas, 40",acaba mundo,DF
 ..***.***33,73.0,"recanto miguel moraes, 45",penha,RS
 ..***.***69,60.0,"feira de farias, 28",horto,RS
 ..***.***01,71.0,"sítio moura, 50",ápia,GO
@@ -816,11 +816,11 @@ cpf,idade,endereco,bairro,estado
 ..***.***76,91.0,"travessa leandro da mata, 898",vila sesc,RO
 ..***.***57,50.0,"área raquel moura, 8",mangabeiras,TO
 ..***.***01,55.0,condomínio de santos,jaraguá,MG
-..***.***15,27.0,"estação lara almeida, 67",sagrada família,PE
+..***.***15,28.0,"estação lara almeida, 67",sagrada família,PE
 ..***.***05,92.0,residencial de mendes,jardim guanabara,RR
 ..***.***74,41.0,"aeroporto emanuel barros, 4",tres marias,DF
 ..***.***91,74.0,"trecho gomes, 3",barreiro,GO
-..***.***56,92.0,"alameda paulo da cruz, 70",vila madre gertrudes 3ª seção,PR
+..***.***56,93.0,"alameda paulo da cruz, 70",vila madre gertrudes 3ª seção,PR
 ..***.***40,33.0,"residencial pinto, 95",etelvina carneiro,DF
 ..***.***37,77.0,"lagoa de silveira, 91",trevo,PI
 ..***.***42,53.0,"condomínio moura, 504",santa helena,SE
@@ -839,8 +839,8 @@ cpf,idade,endereco,bairro,estado
 ..***.***67,100.0,"vereda cauê barbosa, 141",conjunto providencia,MA
 ..***.***57,69.0,"campo rodrigues, 351",brasil industrial,MS
 ..***.***00,87.0,"residencial de sales, 5",vila cloris,SE
-..***.***53,59.0,"área de castro, 108",nova vista,PI
-..***.***17,59.0,"estrada fernanda jesus, 2",santa margarida,AC
+..***.***53,60.0,"área de castro, 108",nova vista,PI
+..***.***17,60.0,"estrada fernanda jesus, 2",santa margarida,AC
 ..***.***76,58.0,"lagoa pietro da cruz, 524",vila santa monica 2ª seção,RO
 ..***.***80,22.0,"rodovia de porto, 90",marieta 2ª seção,GO
 ..***.***05,23.0,"parque de gomes, 71",mala e cuia,PA
@@ -852,13 +852,13 @@ cpf,idade,endereco,bairro,estado
 ..***.***83,38.0,"vereda de da mota, 564",jaqueline,MA
 ..***.***11,52.0,"favela costa, 372",serra,GO
 ..***.***23,32.0,"distrito jesus, 34",vila rica,RS
-..***.***34,71.0,"viela de castro, 27",álvaro camargos,DF
+..***.***34,72.0,"viela de castro, 27",álvaro camargos,DF
 ..***.***42,28.0,"campo moreira, 48",tirol,RN
 ..***.***65,53.0,"favela de da rocha, 6",carlos prates,MS
 ..***.***05,28.0,condomínio maria julia cavalcanti,vila são dimas,PA
 ..***.***22,75.0,chácara maria fernanda castro,marajó,PB
 ..***.***80,89.0,ladeira castro,jardim são josé,MA
-..***.***12,78.0,"largo cavalcanti, 96",floramar,SC
+..***.***12,79.0,"largo cavalcanti, 96",floramar,SC
 ..***.***13,,"pátio de da paz, 57",são joão,SC
 ..***.***51,79.0,"recanto de novaes, 32",serra do curral,TO
 ..***.***06,93.0,"jardim stella da costa, 91",pompéia,BA
@@ -868,7 +868,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***52,61.0,estação de rodrigues,tres marias,PA
 ..***.***19,71.0,trevo vieira,nossa senhora aparecida,AP
 ..***.***78,73.0,"sítio de novaes, 75",vila são dimas,AL
-..***.***31,60.0,"área da costa, 29",dona clara,MS
+..***.***31,61.0,"área da costa, 29",dona clara,MS
 ..***.***42,37.0,"feira da costa, 17",vila dos anjos,SE
 ..***.***48,72.0,"lagoa alves, 97",buritis,MT
 ..***.***92,75.0,"recanto elisa da mota, 8",alípio de melo,AL
@@ -890,11 +890,11 @@ cpf,idade,endereco,bairro,estado
 ..***.***87,71.0,"campo camila das neves, 14",granja de freitas,MG
 ..***.***43,88.0,"residencial luiza correia, 598",savassi,ES
 ..***.***84,27.0,núcleo de caldeira,vila são joão batista,AL
-..***.***04,33.0,"lagoa de rodrigues, 23",vila nova,RN
+..***.***04,34.0,"lagoa de rodrigues, 23",vila nova,RN
 ..***.***26,46.0,"viela eloah cunha, 42",vila suzana primeira seção,RS
 ..***.***60,79.0,"núcleo maria julia cunha, 21",vila santa rosa,PE
 ..***.***07,36.0,alameda nascimento,vila suzana primeira seção,GO
-..***.***50,36.0,"travessa de da rosa, 86",itaipu,PA
+..***.***50,37.0,"travessa de da rosa, 86",itaipu,PA
 ..***.***66,59.0,"sítio de costa, 5",pantanal,TO
 ..***.***46,85.0,campo bernardo barros,conjunto são francisco de assis,MG
 ..***.***22,99.0,recanto silva,joão paulo ii,SP
@@ -903,13 +903,13 @@ cpf,idade,endereco,bairro,estado
 ..***.***46,91.0,"praia luiz gustavo da luz, 83",são joão batista,RO
 ..***.***89,,"esplanada farias, 252",caetano furquim,GO
 ..***.***52,25.0,"rodovia de costela, 116",são geraldo,CE
-..***.***70,52.0,"quadra vieira, 230",cdi jatoba,RO
+..***.***70,53.0,"quadra vieira, 230",cdi jatoba,RO
 ..***.***07,45.0,"trecho de caldeira, 369",santa sofia,SE
 ..***.***49,83.0,"largo joão santos, 10",vila batik,RN
-..***.***00,99.0,"setor juliana fogaça, 605",piraja,MA
+..***.***00,100.0,"setor juliana fogaça, 605",piraja,MA
 ..***.***53,81.0,"área ana vitória martins, 56",xodo-marize,BA
 ..***.***07,38.0,"área thomas moraes, 58",canaa,RJ
-..***.***57,72.0,"chácara mendes, 64",varzea da palma,PR
+..***.***57,73.0,"chácara mendes, 64",varzea da palma,PR
 ..***.***05,22.0,"vale de duarte, 5",horto florestal,AM
 ..***.***99,78.0,"alameda das neves, 1",planalto,MT
 ..***.***22,75.0,"viela danilo farias, 54",lagoa,PE
@@ -926,21 +926,21 @@ cpf,idade,endereco,bairro,estado
 ..***.***02,59.0,"viela alana souza, 456",união,DF
 ..***.***07,89.0,"viela de da cruz, 61",bonsucesso,PA
 ..***.***15,74.0,"esplanada thomas pires, 33",providencia,AP
-..***.***43,96.0,estrada da cruz,aparecida,AP
+..***.***43,97.0,estrada da cruz,aparecida,AP
 ..***.***20,37.0,"residencial de cardoso, 66",vila santo antônio,SE
 ..***.***05,96.0,"condomínio de nunes, 436",vila betânia,PI
-..***.***83,61.0,"morro nunes, 657",ipe,CE
+..***.***83,62.0,"morro nunes, 657",ipe,CE
 ..***.***13,71.0,"praia de campos, 82",vila oeste,SP
 ..***.***49,43.0,"esplanada marcela castro, 36",flavio de oliveira,PA
 ..***.***24,67.0,setor luana ramos,nova pampulha,AC
 ..***.***03,91.0,"esplanada pedro nascimento, 71",vila são paulo,GO
-..***.***74,81.0,"favela kaique fogaça, 19",castelo,AL
+..***.***74,82.0,"favela kaique fogaça, 19",castelo,AL
 ..***.***49,63.0,rodovia de castro,santa branca,ES
 ..***.***02,71.0,Endereço inválido,Desconhecido,Estado inválido
 ..***.***17,33.0,"colônia costa, 81",vera cruz,RO
 ..***.***65,69.0,"vale vieira, 49",comiteco,RS
 ..***.***06,69.0,"recanto de moreira, 426",santo agostinho,MT
-..***.***83,59.0,"sítio clarice sales, 99",silveira,PB
+..***.***83,60.0,"sítio clarice sales, 99",silveira,PB
 ..***.***43,23.0,sítio azevedo,vila mantiqueira,DF
 ..***.***21,35.0,recanto de castro,centro,MA
 ..***.***99,30.0,"estação rafael nunes, 90",jardim são josé,RO
@@ -952,7 +952,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***89,90.0,avenida azevedo,santa maria,MA
 ..***.***44,46.0,"avenida rocha, 13",alta tensão 2ª seção,PI
 ..***.***42,52.0,"praia moreira, 1",cardoso,SE
-..***.***98,52.0,"passarela rocha, 96",buraco quente,SP
+..***.***98,53.0,"passarela rocha, 96",buraco quente,SP
 ..***.***22,48.0,"travessa guilherme carvalho, 7",jonas veiga,MS
 ..***.***16,68.0,"estação fernandes, 85",nova floresta,GO
 ..***.***30,68.0,"loteamento thales pires, 51",vila união,RR
@@ -973,7 +973,7 @@ cpf,idade,endereco,bairro,estado
 ..***.***33,7.0,"núcleo de da paz, 894",sion,GO
 ..***.***84,3.0,recanto de melo,nossa senhora do rosário,BA
 ..***.***38,40.0,"colônia da rocha, 31",jardim américa,RN
-..***.***00,94.0,"estrada nogueira, 21",atila de paiva,PB
+..***.***00,95.0,"estrada nogueira, 21",atila de paiva,PB
 ..***.***23,75.0,rua não cadastrada,bairro não cadastrado,PR
 ..***.***88,22.0,rua não cadastrada,bairro não cadastrado,RS
 ..***.***35,42.0,rua não cadastrada,bairro não cadastrado,RJ

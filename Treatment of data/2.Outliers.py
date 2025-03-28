@@ -3,7 +3,7 @@ from scipy import stats
 
 pd.set_option('display.width', None)
 
-df = pd.read_csv('clientes_tratados.csv')
+df = pd.read_csv('Data_clean.csv')
 
 df_filtro_basico = df[df['idade'] > 100]
 
