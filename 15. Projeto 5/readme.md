@@ -162,7 +162,7 @@ O notebook segue um fluxo estruturado de preparação de dados:
 
 
 
-Projeto desenvolvido por \*\*\[Seu Nome]\*\*  
+Projeto desenvolvido por \*\*\Ediloy\*\*  
 
 📌 \*Estudante de TI e futuro Cientista de Dados\*  
 
