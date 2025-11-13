@@ -64,7 +64,7 @@ A relação existe, mas é limitada → modelo subajustado.
 Usando todas as variáveis independentes.
 
 Resultados:
-- **R² treino:** ~0.69  
+- **R² treino:** ~0.56  
 - **R² teste:** ~0.69  
 
 **Insight:**  
